@@ -1,0 +1,331 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{gb7714-2015/global//global/global}
+    \entry{仇巍巍陈从喜-1}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=77f7bc28c81df37b17ff25d83a7087ff}{%
+           family={仇巍巍},
+           familyi={仇\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=bfa010c3131c42e0c32cf5bf92d13e20}{%
+           family={陈从喜},
+           familyi={陈\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ab3bacc5408811052ffda540bf882bea}{%
+           family={项家铀},
+           familyi={项\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=013ea406b8bd8743f06a78b0fb950037}{%
+           family={高宇},
+           familyi={高\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c5b20149c96c834f9569c50de1d9eaaf}{%
+           family={齐书花},
+           familyi={齐\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=321fc72d939065673dee5b0b9e379583}{%
+           family={朱先云},
+           familyi={朱\bibinitperiod}}}%
+      }
+      \name{namea}{6}{}{%
+        {{hash=77f7bc28c81df37b17ff25d83a7087ff}{%
+           family={仇巍巍},
+           familyi={仇\bibinitperiod}}}%
+        {{hash=bfa010c3131c42e0c32cf5bf92d13e20}{%
+           family={陈从喜},
+           familyi={陈\bibinitperiod}}}%
+        {{hash=ab3bacc5408811052ffda540bf882bea}{%
+           family={项家铀},
+           familyi={项\bibinitperiod}}}%
+        {{hash=013ea406b8bd8743f06a78b0fb950037}{%
+           family={高宇},
+           familyi={高\bibinitperiod}}}%
+        {{hash=c5b20149c96c834f9569c50de1d9eaaf}{%
+           family={齐书花},
+           familyi={齐\bibinitperiod}}}%
+        {{hash=321fc72d939065673dee5b0b9e379583}{%
+           family={朱先云},
+           familyi={朱\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{d2042964aa2f1139ac946efe02408002}
+      \strng{fullhash}{2bcf57a1dc30b7155754ab0c0fd8828f}
+      \strng{bibnamehash}{2bcf57a1dc30b7155754ab0c0fd8828f}
+      \strng{authorbibnamehash}{2bcf57a1dc30b7155754ab0c0fd8828f}
+      \strng{authornamehash}{d2042964aa2f1139ac946efe02408002}
+      \strng{authorfullhash}{2bcf57a1dc30b7155754ab0c0fd8828f}
+      \strng{nameabibnamehash}{2bcf57a1dc30b7155754ab0c0fd8828f}
+      \strng{nameanamehash}{d2042964aa2f1139ac946efe02408002}
+      \strng{nameafullhash}{2bcf57a1dc30b7155754ab0c0fd8828f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{国土空间规划是国家空间发展的指南、可持续发展的空间蓝图，是各类开发保护建设活动的基本依据。国土空间规划编制涉及大量的空间数据、属性数据和社会统计数据，同时要综合多目标下的各种规划因素，以及考虑规划编制后的有效实施和管理。为了提高国土空间规划工作效率和决策科学性，GIS技术应用到国土空间规划成为必然趋势，然而传统的二维GIS国土空间规划多以二维形式呈现数据和分析功能，通过三维技术体系呈现这些数据和功能的需求日益迫切。三维GIS技术日益成熟，无论规划分析评价方面还是监测评估预警方面都能为国土空间规划提供非常好、直观、可量化的技术手段。本文结合已有的规划设计方法，围绕三维GIS在国土空间规划的基础数据、规划分析评价、规划方案评估监督及公众服务等方面进行了具体阐述，可供国土空间规划信息化建设和服务人员参考。}
+      \field{journaltitle}{国土资源信息化}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{note}{页数: 6}
+      \field{title}{三维GIS在国土空间规划中的应用综述}
+      \field{usera}{J}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \keyw{国土空间规划;三维GIS;空间分析;地理设计}
+    \endentry
+    \entry{郭明华-4}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc16c36737c952b31b48022304f9e716}{%
+           family={郭明华},
+           familyi={郭\bibinitperiod}}}%
+      }
+      \name{namea}{1}{}{%
+        {{hash=dc16c36737c952b31b48022304f9e716}{%
+           family={郭明华},
+           familyi={郭\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{dc16c36737c952b31b48022304f9e716}
+      \strng{fullhash}{dc16c36737c952b31b48022304f9e716}
+      \strng{bibnamehash}{dc16c36737c952b31b48022304f9e716}
+      \strng{authorbibnamehash}{dc16c36737c952b31b48022304f9e716}
+      \strng{authornamehash}{dc16c36737c952b31b48022304f9e716}
+      \strng{authorfullhash}{dc16c36737c952b31b48022304f9e716}
+      \strng{nameabibnamehash}{dc16c36737c952b31b48022304f9e716}
+      \strng{nameanamehash}{dc16c36737c952b31b48022304f9e716}
+      \strng{nameafullhash}{dc16c36737c952b31b48022304f9e716}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{水文水资源对于社会的生产生活有着直接的影响，对其进行科学合理的管理十分的必要，以此来形成对水文水资源的保护作用，实现水资源与生态环境的健康、可持续发展。而水文水资源的良好管理需要科学技术的支撑，以便于全面掌握水文水资源的各项信息，为管理的各项工作提供依据。由于GIS技术具有强大的地理信息收集、存储、处理、成图等功能，并具有可视化、空间导向、空间思维等技术特点，使其具备在水文水资源领域中应用的技术优势。文章针对其在水文水资源评价、规划管理、预报，以及地下水调查、水污染防治等中的运用进行了论述，以促进该技术在水文水资源领域的深度应用与发展。}
+      \field{journaltitle}{黑龙江水利科技}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{note}{23-1269/TV}
+      \field{number}{02}
+      \field{title}{GIS技术在水文水资源领域中的运用}
+      \field{usera}{J}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{volume}{50}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{175\bibrangedash 177}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.14122/j.cnki.hskj.2022.02.044
+      \endverb
+      \keyw{GIS技术;水文领域;水资源领域;应用与发展}
+    \endentry
+    \entry{黄智煌邬娜-2}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ed7a2f9f35e58582ff15ffa453fb3361}{%
+           family={黄智煌},
+           familyi={黄\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=06de5b5474cb92629048455abe1293f2}{%
+           family={邬娜},
+           familyi={邬\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=77f7bc28c81df37b17ff25d83a7087ff}{%
+           family={仇巍巍},
+           familyi={仇\bibinitperiod}}}%
+      }
+      \name{namea}{3}{}{%
+        {{hash=ed7a2f9f35e58582ff15ffa453fb3361}{%
+           family={黄智煌},
+           familyi={黄\bibinitperiod}}}%
+        {{hash=06de5b5474cb92629048455abe1293f2}{%
+           family={邬娜},
+           familyi={邬\bibinitperiod}}}%
+        {{hash=77f7bc28c81df37b17ff25d83a7087ff}{%
+           family={仇巍巍},
+           familyi={仇\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{1a43954c03f89ed040940a75392bd606}
+      \strng{fullhash}{285ffc674a386130c81ba6446a1ce7a2}
+      \strng{bibnamehash}{285ffc674a386130c81ba6446a1ce7a2}
+      \strng{authorbibnamehash}{285ffc674a386130c81ba6446a1ce7a2}
+      \strng{authornamehash}{1a43954c03f89ed040940a75392bd606}
+      \strng{authorfullhash}{285ffc674a386130c81ba6446a1ce7a2}
+      \strng{nameabibnamehash}{285ffc674a386130c81ba6446a1ce7a2}
+      \strng{nameanamehash}{1a43954c03f89ed040940a75392bd606}
+      \strng{nameafullhash}{285ffc674a386130c81ba6446a1ce7a2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{为解决智慧矿山建设中的“信息孤岛”及“表面工程”等问题，本文提出了基于3D GIS和物联网的智慧矿山三维可视化系统的构建方案，详细介绍了系统整体架构、关键技术及功能模块。通过系统的三维可视化场景，管理者可真实、全面、详尽地掌握矿山井上井下及周边环境，该系统集成人员定位、环境监测、视频监控等多种物联网安全监控子系统，并作为统一入口，将实时监控数据与三维场景进行融合，在三维可视化场景中对各类实时监控数据进行整体展示、分析和管理，还将三维可视化场景与应急救援等相关管理数据进行关联，建立基于三维场景的应急救援流程，为矿山的生产运营和安全管理提供技术支撑。}
+      \field{journaltitle}{国土资源信息化}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{note}{页数: 7}
+      \field{title}{基于3D GIS和物联网的智慧矿山三维可视化系统设计与实现}
+      \field{usera}{J}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \keyw{智慧矿山;3D GIS;物联网;三维模型;构建}
+    \endentry
+    \entry{刘治华-5}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1321ff55616570e8b1ee2232f6748ee0}{%
+           family={刘治华},
+           familyi={刘\bibinitperiod}}}%
+      }
+      \name{namea}{1}{}{%
+        {{hash=1321ff55616570e8b1ee2232f6748ee0}{%
+           family={刘治华},
+           familyi={刘\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{1321ff55616570e8b1ee2232f6748ee0}
+      \strng{fullhash}{1321ff55616570e8b1ee2232f6748ee0}
+      \strng{bibnamehash}{1321ff55616570e8b1ee2232f6748ee0}
+      \strng{authorbibnamehash}{1321ff55616570e8b1ee2232f6748ee0}
+      \strng{authornamehash}{1321ff55616570e8b1ee2232f6748ee0}
+      \strng{authorfullhash}{1321ff55616570e8b1ee2232f6748ee0}
+      \strng{nameabibnamehash}{1321ff55616570e8b1ee2232f6748ee0}
+      \strng{nameanamehash}{1321ff55616570e8b1ee2232f6748ee0}
+      \strng{nameafullhash}{1321ff55616570e8b1ee2232f6748ee0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{随着我国科技水平的提升，各行业互联网信息技术逐渐融合发展，并得到了显著进步。地理信息系统(Geographic Information System，GIS)主要便于对空间数据和信息管理系统进行研究，应用GIS技术也可方便工作人员处理信息图形及数据，尤其在水文水资源领域中应用较为广泛。基于此，分析了GIS技术在水文水资源领域中加强空间决策系统的建设、促进模型与GIS 的有机结合、建立地理空间数据库、智能化发展等应用对策。}
+      \field{journaltitle}{南方农业}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{note}{50-1186/S}
+      \field{number}{02}
+      \field{title}{GIS技术在水文水资源领域中的应用}
+      \field{usera}{J}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{volume}{16}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{229\bibrangedash 231}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.19415/j.cnki.1673-890x.2022.02.073
+      \endverb
+      \keyw{GIS技术;水文;水资源}
+    \endentry
+    \entry{张国治韩景琦-3}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=95d4d1c15c08b4c349d60af17aeb9c9c}{%
+           family={张国治},
+           familyi={张\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=3377ad70f12f04ec49851b561d0e41aa}{%
+           family={韩景琦},
+           familyi={韩\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=80f3a36396635cdc83e967b87e127c6c}{%
+           family={刘健犇},
+           familyi={刘\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a50b58123c6a33e3bb56f23af3d666ad}{%
+           family={陈康},
+           familyi={陈\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=4a2ff2594ca2d8f47480c7f2022b0bc0}{%
+           family={张硕},
+           familyi={张\bibinitperiod}}}%
+      }
+      \name{namea}{5}{}{%
+        {{hash=95d4d1c15c08b4c349d60af17aeb9c9c}{%
+           family={张国治},
+           familyi={张\bibinitperiod}}}%
+        {{hash=3377ad70f12f04ec49851b561d0e41aa}{%
+           family={韩景琦},
+           familyi={韩\bibinitperiod}}}%
+        {{hash=80f3a36396635cdc83e967b87e127c6c}{%
+           family={刘健犇},
+           familyi={刘\bibinitperiod}}}%
+        {{hash=a50b58123c6a33e3bb56f23af3d666ad}{%
+           family={陈康},
+           familyi={陈\bibinitperiod}}}%
+        {{hash=4a2ff2594ca2d8f47480c7f2022b0bc0}{%
+           family={张硕},
+           familyi={张\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{3616d0e4c3d89f632d3c241e5191cf1a}
+      \strng{fullhash}{03f97cdc10963a46b994f8ed57024633}
+      \strng{bibnamehash}{03f97cdc10963a46b994f8ed57024633}
+      \strng{authorbibnamehash}{03f97cdc10963a46b994f8ed57024633}
+      \strng{authornamehash}{3616d0e4c3d89f632d3c241e5191cf1a}
+      \strng{authorfullhash}{03f97cdc10963a46b994f8ed57024633}
+      \strng{nameabibnamehash}{03f97cdc10963a46b994f8ed57024633}
+      \strng{nameanamehash}{3616d0e4c3d89f632d3c241e5191cf1a}
+      \strng{nameafullhash}{03f97cdc10963a46b994f8ed57024633}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{针对变电站气体绝缘组合电器（GIS）绝缘缺陷局部放电高灵敏监测需求和现有刚性基底特高频（UHF）天线传感器内置安装的复杂工艺和内置后存在破坏设备内部电场分布的风险问题，本文提出了柔性特高频传感技术研究。本文设计了一款柔性UHF螺旋天线传感器，采用正弦波加载的方式以及提高天线本体间隙比的方式实现了天线本体小型化，同时巴伦与天线本体共面，大幅减小了天线整体体积，设计的柔性天线直径为150mm，较未小型化径向距离缩小了25\%。仿真和网分实测结果表明：在610MHz～3GHz频带范围内，柔性天线在弯曲半径为0mm、100mm、200mm时的电压驻波比（VSWR）≤3.5；在790MHz～1.8GHz频段内VSWR≤2。最后利用搭建GIS典型缺陷局部放电模拟实验平台对设计的柔性天线进行PD检测性能实测。结果表明，设计的柔性天线在不同弯曲程度下均能有效检测到PD信号，具有较高的信噪比。}
+      \field{journaltitle}{电工技术学报}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{note}{页数: 12}
+      \field{title}{GIS PD检测天线本体和巴伦共面柔性小型化UHF天线传感器研究}
+      \field{usera}{J}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.19595/j.cnki.1000-6753.tces.211588
+      \endverb
+      \keyw{GIS;PD;特高频柔性天线;小型化;间隙比}
+    \endentry
+  \enddatalist
+  \missing{胡振震2016}
+  \missing{胡振震2019}
+\endrefsection
+\endinput
+

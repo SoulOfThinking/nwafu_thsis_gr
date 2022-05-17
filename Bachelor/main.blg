@@ -1,0 +1,13 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[127] biber-MSWIN32:340> INFO - === 
+[171] Biber.pm:418> INFO - Reading 'main.bcf'
+[361] Biber.pm:972> INFO - Found 3 citekeys in bib section 0
+[411] Biber.pm:4383> INFO - Processing section 0
+[426] Biber.pm:4574> INFO - Looking for bibtex file 'bib/sample.bib' for section 0
+[500] bibtex.pm:1713> INFO - LaTeX decoding ...
+[952] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/sample.bib'
+[1048] Utils.pm:409> ERROR - BibTeX subsystem: C:\Users\HANDSO~1\AppData\Local\Temp\biber_tmp_PYMX\4f254e11deca8776044b2c0962cb1230_4596.utf8, line 186, syntax error: found "{ID,   author = {author},   title = {title},   date = {date},   OPTsubtitle = {subtitle},   OPTtitleaddon = {titleaddon},   OPTlanguage = {language},   OPThowpublished = {howpublished},   OPTnote = {note},   OPTlocation = {location},   OPTisbn = {isbn},   OPTdate = {date},   OPTmonth = {month},   OPTyear = {year},   OPTaddendum = {addendum},   OPTpubstate = {pubstate},   OPTurl = {url},   OPTurldate = {urldate},   }", expected end of entry ("}" or ")") (skipping to next "@")
+[1048] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\HANDSO~1\AppData\Local\Temp\biber_tmp_PYMX\4f254e11deca8776044b2c0962cb1230_4596.utf8, line 169, warning: possible runaway string started at line 168
+[1048] Biber.pm:132> INFO - WARNINGS: 1
+[1048] Biber.pm:135> INFO - ERRORS: 1
