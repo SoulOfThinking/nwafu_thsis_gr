@@ -2,30 +2,339 @@
 %第四章 总体设计
 % 论文的主文件位于上级目录的 `main.tex`
 \chapter{雨水资源GIS专题图总体设计}
-
-
-
 \section{设计思路}
+\begin{enumerate}
+	\item 具体问题具体分析，获取精准需求。
+	
+	GIS专题图具有地图内容主题化的特点，因此具体的需求必须精准化才能使得GIS专题图的设计更好的贴合项目，更好的使用户查看，使用，理解。例如，对于降雨信息而言，我们必须抓住降雨的主要特点:降雨量，可利用降雨量，总降雨量，降雨量范围等。以此来精准获得GIS专题图应该展示的内容，对于次要要素选择其他方式进行展示。
+	\item GIS专题图分类
+	
+	随着GIS技术的日益成熟，作为地理分析结果重要表现形式的专题地图，也在不断发展、创新和应用，现在已经衍生出了GIS专题图的具体分类，比如：独立值专题图，点密度专题图，范围专题图，等级符号专题图，时序专题图，多比例尺专题图，多变量专题图等，因此参考具体需求选取具体种类的专题图十分必要。
+	\item 专题图功能设计
+	
+	除了专题图具体展示的内容以外，还需要考虑其他粒度的展示功能，比如时序功能，例如降雨信息，我们需要考虑过去一段时间内的降雨信息的展示等。所以需要进行专题图的功能设计，让专题图展示的内容更加完善。
+	\item 界面设计
+	
+	当设计好专题图需要展示的内容时，接下来我们就需要如何设计界面，让专题图在大屏上展示出来，具体功能bottom键的放置位置等，以及次要要素的展示设计等。
+\end{enumerate}
 
 \section{功能设计}
-\subsection{用例描述}
+由需求设计具体功能。
+\subsection{功能描述}
+%土壤信息
+土壤信息功能设计如(\ref{1})所示：
+
+    \begin{table}[H]
+	\centering
+	\caption[土壤信息]{土壤信息功能描述及流程}
+	\label{1}
+	\begin{tabular}{|c|c|c|c|}
+		
+		\hline
+		功能编号&01&功能名称&土壤信息\\
+		\hline
+		\multicolumn{2}{|c|}{功能描述}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{以GIS专题图的形式展示土壤类型、肥力、墒情酸碱度等信息，不同地区的土壤类型用不同颜色表示，肥力墒情和酸碱度信息通过用户点击来显示出某个地区的肥力墒情酸碱度信息。}}\\[6ex]
+		\hline
+		\multicolumn{2}{|c|}{功能流程}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{当用户点击首页时，界面会加载指定地图，以不同颜色区分出各个地区不同的土壤类型情况，当用户放置在（或点击）某个区域时，会显示出此地区的肥力墒情和酸碱度信息，此专题图为静态地图，只有当影响土壤类型肥力墒情和酸碱度信息的出现时，信息才会进行更新。}}\\[10ex]
+		\hline
+		
+
+	\end{tabular}
+    \end{table}
+%气候信息
+气候信息功能设计如(\ref{2})所示：
+
+\begin{table}[H]
+	\centering
+	\caption[气候信息]{气候信息功能描述及流程}
+	\label{2}
+	\begin{tabular}{|c|c|c|c|}
+		
+		\hline
+		功能编号&02&功能名称&气候信息\\
+		\hline
+		\multicolumn{2}{|c|}{功能描述}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{以GIS专题图的形式展示气候信息，主要为空气温湿度，风速风向，光照等信息，在定边县地图为底图，以图标的形式展示风向和光照信息，不同颜色展示温度信息，当点击各种图标时，会显示出风向，光照强度，具体温湿度信息。}}\\[10ex]
+		\hline
+		\multicolumn{2}{|c|}{功能流程}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{用户点击气候信息时，会展示出定边县与气候相关的GIS专题图，用户会在各个区域粒度的风向标，光照标识以及不同区域不同颜色的温湿度情况，当用于放置在（或点击）某个标识或者区域时，会具体展示出光照强度、风速数据以及具体的温湿度数据。此专题图为动态地图，会随时随着当时当地的气候变化来变化信息数据，（可设置不同时间粒度变化的次数来满足用户需求，地图类型可参考天气预报形式）}}\\[16ex]
+		\hline
+		
+		
+	\end{tabular}
+\end{table}
+%降雨信息
+降雨信息功能设计如(\ref{3})所示：
+
+\begin{table}[H]
+	\centering
+	\caption[降雨信息]{降雨信息功能描述及流程}
+	\label{3}
+	\begin{tabular}{|c|c|c|c|}
+		
+		\hline
+		功能编号&01&功能名称&降雨信息\\
+		\hline
+		\multicolumn{2}{|c|}{功能描述}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{以GIS专题图的形式展示各个区域的降雨信息，包括过去、现在、未来等情况}}\\[10ex]
+		\hline
+		\multicolumn{2}{|c|}{功能流程}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{用户点击降雨信息时，会展示当前也就是现在的降雨情况，使用白色到蓝色覆盖区域来展示现在的降雨大小情况，当用户放置（或点击）某个区域时会展示具体降雨量信息，降雨信息点击还包括选择日期，分为过去以及未来预测的降雨情况，展示情况和现在情况一样，过去以及未来的天数根据数据库以及天气预报具体情况来设计。此地图也应为动态地图，但是由于降雨特殊情况可以将时间粒度放宽一些。}}\\[16ex]
+		\hline
+		
+		
+	\end{tabular}
+\end{table}
+%蓄水信息
+蓄水信息功能设计如(\ref{4})所示：
+
+\begin{table}[H]
+	\centering
+	\caption[蓄水信息]{蓄水信息功能描述及流程}
+	\label{4}
+	\begin{tabular}{|c|c|c|c|}
+		
+		\hline
+		功能编号&01&功能名称&蓄水信息\\
+		\hline
+		\multicolumn{2}{|c|}{功能描述}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{使用GIS专题图来展示各个区域的河流水库地下水的蓄水情况，不同地下水储量情况可以使用不同颜色来表示，水库在地图上使用原点标识出来，河流可采用点击各个区域出现具体数据来展示}}\\[10ex]
+		\hline
+		\multicolumn{2}{|c|}{功能流程}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{当用户点击蓄水信息时，会展示当前的各个区域的蓄水情况，不同区域会看到不同的颜色，这代表了不同区域地下水储量的不同，还会看到一些圆点，这些代表了各个地区的水库位置，当放置（或点击）圆点时会展示出水库的具体信息（名称，蓄水量等），当放置（或点击）具体区域时会展示流经该地区的河流具体信息（河流名称，具体流量等），此为静态地图，当出现用水情况时，GIS专题图信息才会改变。}}\\[16ex]
+		\hline
+		
+		
+	\end{tabular}
+\end{table}
+蒸散发信息
+蒸散发信息功能设计如(\ref{5})所示：
+
+\begin{table}[H]
+	\centering
+	\caption[蒸散发信息]{蒸散发信息功能描述及流程}
+	\label{5}
+	\begin{tabular}{|c|c|c|c|}
+		
+		\hline
+		功能编号&01&功能名称&蒸散发信息\\
+		\hline
+		\multicolumn{2}{|c|}{功能描述}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{通过对气候信息和植被覆盖信息的处理来得出各个区域的蒸散发强度信息，采用不同颜色或者蒸发动态图标展示。不同区域有蒸散发具体数据。}}\\[10ex]
+		\hline
+		\multicolumn{2}{|c|}{功能流程}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{当用户点击蒸散发信息时，会展示出不同区域不同蒸散发直观信息，当放置（或点击）具体区域时，会展示出具体区域的蒸散发信息数据。由于气候信息为动态信息，所以蒸散发信息也为动态信息，随时变化。}}\\[16ex]
+		\hline
+		
+		
+	\end{tabular}
+\end{table}
+
+
+
+
 \subsection{功能视图}
 
 \section{数据库设计}
-\subsection{地表水系设计}
-\subsubsection{河流数据库设计}
-\subsubsection{蓄水池数据库设计}
-\subsubsection{水库数据库设计}
-\subsubsection{污水数据库设计}
-\subsection{地下水系设计}
-\subsubsection{地下水数据库设计}
-\subsubsection{{土壤数据库设计}
-\subsection{气候设计}
-\subsubsection{光照数据库设计}
-\subsubsection{降雨数据库设计}
-\subsubsection{温度数据库设计}
-\subsubsection{风数据库设计}
 
+\subsection{河流数据库设计}
+
+\begin{table}[H]
+	\centering
+	\caption[河流数据]{河流数据库表}
+	\begin{tabular}{cccccc}
+		\toprule
+		名            & 类型      & 长度 &是否可为null & 键 & 注释\\
+		\midrule
+		id            & varchar  & 100  & 否 & 是 & 河流数据id \\
+		riv\_name     & varchar  & 255  &是  & 否 & 河流名称   \\
+		riv\_qua      & varchar  & 255  &是  & 否 & 河流水质   \\
+		riv\_change   & float    & 255  &是  & 否 & 河流变化量 \\
+		riv\_flow     & float    & 255  &是  & 否 & 河流流量   \\
+		riv\_ev       & float    & 255  & 是 & 否 & 蒸发量     \\
+		detail\_id    & varchar  & 100  & 是 & 否 & 河流详情id \\
+		create\_time  & datatime &      &是  & 否 & 创建时间   \\
+		delete\_time  &datatime  &      & 是 & 否 & 删除时间   \\ 
+		\bottomrule
+	\end{tabular}
+\end{table}
+\subsection{蓄水池数据库设计}
+
+\begin{table}[H]
+	\centering
+	\caption[蓄水池数据]{蓄水池数据库表}
+	\begin{tabular}{cccccc}
+		\toprule
+		名            & 类型      & 长度 &是否可为null & 键 & 注释\\
+		\midrule
+		id            & varchar  & 100  & 否 & 是 & 蓄水池数据id \\
+		imp\_name     & varchar  & 255  &是  & 否 & 蓄水池名称   \\
+		imp\_qul      & varchar  & 255  &是  & 否 & 蓄水池水质   \\
+		imp\_change   & float    & 255  &是  & 否 & 蓄水池变化量 \\
+		riv\_total    & float    & 255  &是  & 否 & 蓄水池储存总量   \\
+		riv\_ev       & float    & 255  & 是 & 否 & 蒸发量     \\
+		detail\_id    & varchar  & 100  & 是 & 否 & 蓄水池详情id \\
+		create\_time  & datatime &      &是  & 否 & 创建时间   \\
+		delete\_time  &datatime  &      & 是 & 否 & 删除时间   \\ 
+		\bottomrule
+	\end{tabular}
+\end{table}
+\subsection{水库数据库设计}
+\begin{table}[H]
+	\centering
+	\caption[水库数据]{水库数据库表}
+	\begin{tabular}{cccccc}
+		\toprule
+		名            & 类型      & 长度 &是否可为null & 键 & 注释\\
+		\midrule
+		id            & varchar  & 100  & 否 & 是 & 水库数据id \\
+		re\_name      & varchar  & 255  &是  & 否 & 水库名称   \\
+		re\_qual      & varchar  & 255  &是  & 否 & 水库水质   \\
+		re\_change    & float    & 255  &是  & 否 & 水库水变化量 \\
+		re\_total     & float    & 255  &是  & 否 & 水库储存总量   \\
+		re\_ev        & float    & 255  & 是 & 否 & 蒸发量     \\
+		detail\_id    & varchar  & 100  & 是 & 否 & 水库详情id \\
+		create\_time  & datatime &      &是  & 否 & 创建时间   \\
+		delete\_time  &datatime  &      & 是 & 否 & 删除时间   \\ 
+		\bottomrule
+	\end{tabular}
+\end{table}
+\subsection{污水数据库设计}
+\begin{table}[H]
+	\centering
+	\caption[污水数据]{污水数据库表}
+	\begin{tabular}{cccccc}
+		\toprule
+		名            & 类型      & 长度 &是否可为null & 键 & 注释\\
+		\midrule
+		id            & varchar  & 100  & 否 & 是 & 污水id \\
+		se\_change     & varchar  & 255  &是  & 否 & 污水变化量   \\
+		se\_total      & varchar  & 255  &是  & 否 & 污水储存总量   \\
+		se\_locate   & float    & 255  &是  & 否 & 地理位置 \\
+		se\_metal    & float    & 255  &是  & 否 & 金属含量   \\
+		se\_amni       & float    & 255  & 是 & 否 & 氨氮含量     \\
+		se\_oxy    & varchar  & 255  & 是 & 否 & 溶解氧含量 \\
+		se\_origin&varchar & 255 &是 & 否&产生来源\\
+		create\_time  & datatime &      &是  & 否 & 创建时间   \\
+		delete\_time  &datatime  &      & 是 & 否 & 删除时间   \\ 
+		\bottomrule
+	\end{tabular}
+\end{table}
+\subsection{地下水数据库设计}
+\begin{table}[H]
+	\centering
+	\caption[地下水数据]{地下水数据库表}
+	\begin{tabular}{cccccc}
+		\toprule
+		名            & 类型      & 长度 &是否可为null & 键 & 注释\\
+		\midrule
+		id            & varchar  & 100  & 否 & 是 & 地下水数据id \\
+		uw\_qul     & varchar  & 255  &是  & 否 & 地下水水质   \\
+		uw\_change      & varchar  & 255  &是  & 否 & 地下水变化量   \\
+		uw\_total   & float    & 255  &是  & 否 & 地下水储存总量 \\
+		uw\_ev       & float    & 255  & 是 & 否 & 蒸发量     \\
+		detail\_id    & varchar  & 100  & 是 & 否 & 地下水详情id \\
+		create\_time  & datatime &      &是  & 否 & 创建时间   \\
+		delete\_time  &datatime  &      & 是 & 否 & 删除时间   \\ 
+		\bottomrule
+	\end{tabular}
+\end{table}
+\subsection{土壤数据库设计}
+\begin{table}[H]
+	\centering
+	\caption[土壤数据]{土壤数据库表}
+	\begin{tabular}{cccccc}
+		\toprule
+		名            & 类型      & 长度 &是否可为null & 键 & 注释\\
+		\midrule
+		id           & varchar  & 100  & 否 & 是 & 土壤id \\
+		so\_type     & varchar  & 255  &是  & 否 & 土壤类型   \\
+		so\_moisture & varchar  & 255  &是  & 否 & 墒情   \\
+		so\_ph       & float    & 255  &是  & 否 & PH值 \\
+		so\_wat      & float    & 255  &是  & 否 & 水分   \\
+		so\_so       & float    & 255  & 是 & 否 & 盐分     \\
+        so\_tem       & float    & 255  & 是 & 否 & 温度     \\
+        so\_humidity & float    & 255  & 是 & 否 & 湿度     \\
+        so\_fertility & float    & 255  & 是 & 否 & 肥力     \\
+        so\_n       & float    & 255  & 是 & 否 & 含氮量     \\
+        so\_eva     & float    & 255  & 是 & 否 & 蒸发量     \\
+        so\_locate  & float    & 255  & 是 & 否 & 位置     \\
+		create\_time  & datatime &      &是  & 否 & 创建时间   \\
+		delete\_time  &datatime  &      & 是 & 否 & 删除时间   \\ 
+		\bottomrule
+	\end{tabular}
+\end{table}
+
+\subsection{光照数据库设计}
+\begin{table}[H]
+	\centering
+	\caption[光照数据]{光照数据库表}
+	\begin{tabular}{cccccc}
+		\toprule
+		名            & 类型      & 长度 &是否可为null & 键 & 注释\\
+		\midrule
+		id            & varchar  & 100  & 否 & 是 & 光照id \\
+		ill\_big     & varchar  & 255  &是  & 否 & 光照强度   \\
+		ill\_thre      & varchar  & 255  &是  & 否 & 阙值   \\
+		ill\_val   & float    & 255  &是  & 否 & 光合有效辐射 \\
+		ill\_total     & float    & 255  &是  & 否 & 总辐射量   \\
+		ill\_locate       & varchar    & 255  & 是 & 否 & 地理位置     \\
+		create\_time  & datatime &      &是  & 否 & 创建时间   \\
+		delete\_time  &datatime  &      & 是 & 否 & 删除时间   \\ 
+		\bottomrule
+	\end{tabular}
+\end{table}
+
+\subsection{降雨数据库设计}
+\begin{table}[H]
+	\centering
+	\caption[降雨数据]{降雨数据库表}
+	\begin{tabular}{cccccc}
+		\toprule
+		名            & 类型      & 长度 &是否可为null & 键 & 注释\\
+		\midrule
+		id            & varchar  & 100  & 否 & 是 & 气候降雨id \\
+		wa\_de     & varchar  & 255  &是  & 否 & 露点   \\
+		wa\_val      & varchar  & 255  &是  & 否 & 有效降雨量   \\
+		wa\_total   & float    & 255  &是  & 否 & 总雨量 \\
+	    wa\_thre     & float    & 255  &是  & 否 & 阙值   \\
+		wa\_locate   & varchar    & 255  & 是 & 否 & 地理位置     \\
+		create\_time  & datatime &      &是  & 否 & 创建时间   \\
+		delete\_time  &datatime  &      & 是 & 否 & 删除时间   \\ 
+		\bottomrule
+	\end{tabular}
+\end{table}
+
+\subsection{温度数据库设计}
+\begin{table}[H]
+	\centering
+	\caption[温度数据]{温度数据库表}
+	\begin{tabular}{cccccc}
+		\toprule
+		名            & 类型      & 长度 &是否可为null & 键 & 注释\\
+		\midrule
+		id            & varchar  & 100  & 否 & 是 & 温度id \\
+		tem\_tem     & varchar  & 255  &是  & 否 & 温度   \\
+		tem\_thre\_tem      & varchar  & 255  &是  & 否 & 阙值   \\
+		tem\_dew   & float    & 255  &是  & 否 & 湿度 \\
+		tem\_thre\_dew     & float    & 255  &是  & 否 & 阙值   \\
+		tem\_locate   & varchar    & 255  & 是 & 否 & 地理位置     \\
+		create\_time  & datatime &      &是  & 否 & 创建时间   \\
+		delete\_time  &datatime  &      & 是 & 否 & 删除时间   \\ 
+		\bottomrule
+	\end{tabular}
+\end{table}
+
+\subsection{风数据库设计}
+\begin{table}[H]
+	\centering
+	\caption[风数据]{风数据库表}
+	\begin{tabular}{cccccc}
+		\toprule
+		名            & 类型      & 长度 &是否可为null & 键 & 注释\\
+		\midrule
+		id            & varchar  & 100  & 否 & 是 & 风id \\
+		wid\_spe      & varchar  & 255  &是  & 否 & 风速   \\
+		wid\_thre      & varchar  & 255  &是  & 否 & 阙值   \\
+		wid\_direction   & float    & 255  &是  & 否 & 风向 \\
+		wa\_locate   & varchar    & 255  & 是 & 否 & 地理位置     \\
+		create\_time  & datatime &      &是  & 否 & 创建时间   \\
+		delete\_time  &datatime  &      & 是 & 否 & 删除时间   \\ 
+		\bottomrule
+	\end{tabular}
+\end{table}
 
 %%% Local Variables: 
 %%% mode: latex

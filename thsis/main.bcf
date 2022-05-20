@@ -2920,17 +2920,11 @@
     <bcf:citekey order="3">张国治韩景琦-3</bcf:citekey>
     <bcf:citekey order="4">郭明华-4</bcf:citekey>
     <bcf:citekey order="5">刘治华-5</bcf:citekey>
-    <bcf:citekey order="6">胡振震2019</bcf:citekey>
-    <bcf:citekey order="7">胡振震2016</bcf:citekey>
-    <bcf:citekey order="8">胡振震2019</bcf:citekey>
-    <bcf:citekey order="9">胡振震2016</bcf:citekey>
-    <bcf:citekey order="10">黄智煌邬娜-2</bcf:citekey>
-    <bcf:citekey order="11">仇巍巍陈从喜-1</bcf:citekey>
-    <bcf:citekey order="12">张国治韩景琦-3</bcf:citekey>
-    <bcf:citekey order="13">郭明华-4</bcf:citekey>
-    <bcf:citekey order="14">刘治华-5</bcf:citekey>
-    <bcf:citekey order="15">胡振震2019</bcf:citekey>
-    <bcf:citekey order="16">胡振震2016</bcf:citekey>
+    <bcf:citekey order="6">黄智煌邬娜-2</bcf:citekey>
+    <bcf:citekey order="7">仇巍巍陈从喜-1</bcf:citekey>
+    <bcf:citekey order="8">张国治韩景琦-3</bcf:citekey>
+    <bcf:citekey order="9">郭明华-4</bcf:citekey>
+    <bcf:citekey order="10">刘治华-5</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="gb7714-2015">
