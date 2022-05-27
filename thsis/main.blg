@@ -1,17 +1,14 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
 [125] biber-MSWIN32:340> INFO - === 
-[171] Biber.pm:418> INFO - Reading 'main.bcf'
-[364] Biber.pm:972> INFO - Found 7 citekeys in bib section 0
-[414] Biber.pm:4383> INFO - Processing section 0
-[428] Biber.pm:4574> INFO - Looking for bibtex file 'bib/thsis.bib' for section 0
-[496] bibtex.pm:1713> INFO - LaTeX decoding ...
-[549] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/thsis.bib'
-[690] UCollate.pm:68> INFO - Overriding locale 'zh__pinyin' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[690] UCollate.pm:68> INFO - Overriding locale 'zh__pinyin' defaults 'variable = shifted' with 'variable = non-ignorable'
-[690] Biber.pm:4203> INFO - Sorting list 'gb7714-2015/global//global/global' of type 'entry' with template 'gb7714-2015' and locale 'zh__pinyin'
-[697] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[706] bbl.pm:757> INFO - Output to main.bbl
-[706] Biber.pm:130> WARN - I didn't find a database entry for '胡振震2019' (section 0)
-[706] Biber.pm:130> WARN - I didn't find a database entry for '胡振震2016' (section 0)
-[706] Biber.pm:132> INFO - WARNINGS: 2
+[169] Biber.pm:418> INFO - Reading 'main.bcf'
+[359] Biber.pm:972> INFO - Found 17 citekeys in bib section 0
+[410] Biber.pm:4383> INFO - Processing section 0
+[425] Biber.pm:4574> INFO - Looking for bibtex file 'bib/thsis.bib' for section 0
+[492] bibtex.pm:1713> INFO - LaTeX decoding ...
+[565] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/thsis.bib'
+[864] UCollate.pm:68> INFO - Overriding locale 'zh__pinyin' defaults 'variable = shifted' with 'variable = non-ignorable'
+[864] UCollate.pm:68> INFO - Overriding locale 'zh__pinyin' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[864] Biber.pm:4203> INFO - Sorting list 'gb7714-2015/global//global/global' of type 'entry' with template 'gb7714-2015' and locale 'zh__pinyin'
+[889] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[918] bbl.pm:757> INFO - Output to main.bbl

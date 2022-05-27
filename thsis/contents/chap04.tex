@@ -73,7 +73,7 @@
 		\hline
 		功能编号&01&功能名称&降雨信息\\
 		\hline
-		\multicolumn{2}{|c|}{功能描述}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{以GIS专题图的形式展示各个区域的降雨信息，包括过去、现在、未来等情况}}\\[10ex]
+		\multicolumn{2}{|c|}{功能描述}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{以GIS专题图的形式展示各个区域的降雨信息，包括过去、现在、未来等情况}}\\[4ex]
 		\hline
 		\multicolumn{2}{|c|}{功能流程}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{用户点击降雨信息时，会展示当前也就是现在的降雨情况，使用白色到蓝色覆盖区域来展示现在的降雨大小情况，当用户放置（或点击）某个区域时会展示具体降雨量信息，降雨信息点击还包括选择日期，分为过去以及未来预测的降雨情况，展示情况和现在情况一样，过去以及未来的天数根据数据库以及天气预报具体情况来设计。此地图也应为动态地图，但是由于降雨特殊情况可以将时间粒度放宽一些。}}\\[16ex]
 		\hline
@@ -113,9 +113,9 @@
 		\hline
 		功能编号&01&功能名称&蒸散发信息\\
 		\hline
-		\multicolumn{2}{|c|}{功能描述}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{通过对气候信息和植被覆盖信息的处理来得出各个区域的蒸散发强度信息，采用不同颜色或者蒸发动态图标展示。不同区域有蒸散发具体数据。}}\\[10ex]
+		\multicolumn{2}{|c|}{功能描述}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{通过对气候信息和植被覆盖信息的处理来得出各个区域的蒸散发强度信息，采用不同颜色或者蒸发动态图标展示。不同区域有蒸散发具体数据。}}\\[6ex]
 		\hline
-		\multicolumn{2}{|c|}{功能流程}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{当用户点击蒸散发信息时，会展示出不同区域不同蒸散发直观信息，当放置（或点击）具体区域时，会展示出具体区域的蒸散发信息数据。由于气候信息为动态信息，所以蒸散发信息也为动态信息，随时变化。}}\\[16ex]
+		\multicolumn{2}{|c|}{功能流程}&\multicolumn{2}{c|}{\multirow{1}{0.7\textwidth}{当用户点击蒸散发信息时，会展示出不同区域不同蒸散发直观信息，当放置（或点击）具体区域时，会展示出具体区域的蒸散发信息数据。由于气候信息为动态信息，所以蒸散发信息也为动态信息，随时变化。}}\\[8ex]
 		\hline
 		
 		
@@ -241,15 +241,11 @@
 		\midrule
 		id           & varchar  & 100  & 否 & 是 & 土壤id \\
 		so\_type     & varchar  & 255  &是  & 否 & 土壤类型   \\
-		so\_moisture & varchar  & 255  &是  & 否 & 墒情   \\
-		so\_ph       & float    & 255  &是  & 否 & PH值 \\
 		so\_wat      & float    & 255  &是  & 否 & 水分   \\
 		so\_so       & float    & 255  & 是 & 否 & 盐分     \\
-        so\_tem       & float    & 255  & 是 & 否 & 温度     \\
         so\_humidity & float    & 255  & 是 & 否 & 湿度     \\
         so\_fertility & float    & 255  & 是 & 否 & 肥力     \\
         so\_n       & float    & 255  & 是 & 否 & 含氮量     \\
-        so\_eva     & float    & 255  & 是 & 否 & 蒸发量     \\
         so\_locate  & float    & 255  & 是 & 否 & 位置     \\
 		create\_time  & datatime &      &是  & 否 & 创建时间   \\
 		delete\_time  &datatime  &      & 是 & 否 & 删除时间   \\ 

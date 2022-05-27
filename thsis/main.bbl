@@ -19,6 +19,61 @@
 
 \refsection{0}
   \datalist[entry]{gb7714-2015/global//global/global}
+    \entry{陈鲁周-25}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c0d0c4ffb1f34a756c9e2daa4c0cfe48}{%
+           family={陈述彭},
+           familyi={陈\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=53a726f4c8ac611c27f99b7c1fa6c8bb}{%
+           family={鲁学军},
+           familyi={鲁\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=7ab27a682bd4c55556b385166f0c70dd}{%
+           family={周成虎},
+           familyi={周\bibinitperiod}}}%
+      }
+      \name{namea}{3}{}{%
+        {{hash=c0d0c4ffb1f34a756c9e2daa4c0cfe48}{%
+           family={陈述彭},
+           familyi={陈\bibinitperiod}}}%
+        {{hash=53a726f4c8ac611c27f99b7c1fa6c8bb}{%
+           family={鲁学军},
+           familyi={鲁\bibinitperiod}}}%
+        {{hash=7ab27a682bd4c55556b385166f0c70dd}{%
+           family={周成虎},
+           familyi={周\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{34733bdff800c5176f2c382e7a235158}
+      \strng{fullhash}{be8353c43c5c29e224203d10f1a98b28}
+      \strng{bibnamehash}{be8353c43c5c29e224203d10f1a98b28}
+      \strng{authorbibnamehash}{be8353c43c5c29e224203d10f1a98b28}
+      \strng{authornamehash}{34733bdff800c5176f2c382e7a235158}
+      \strng{authorfullhash}{be8353c43c5c29e224203d10f1a98b28}
+      \strng{nameabibnamehash}{be8353c43c5c29e224203d10f1a98b28}
+      \strng{nameanamehash}{34733bdff800c5176f2c382e7a235158}
+      \strng{nameafullhash}{be8353c43c5c29e224203d10f1a98b28}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{北京:科学出版社}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{number}{02}
+      \field{title}{地理信息导论}
+      \field{usera}{J}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{pages}{20\bibrangedash 24}
+      \range{pages}{5}
+    \endentry
     \entry{仇巍巍陈从喜-1}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=77f7bc28c81df37b17ff25d83a7087ff}{%
@@ -93,6 +148,68 @@
       \field{pages}{1\bibrangedash 6}
       \range{pages}{6}
       \keyw{国土空间规划;三维GIS;空间分析;地理设计}
+    \endentry
+    \entry{得克萨斯州}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=cc16ee57db186190b60c8d50f3eb7862}{%
+           family={丛沛桐},
+           familyi={丛\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2c8ca44f39d3d3071f797561cc5f739d}{%
+           family={王志刚},
+           familyi={王\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=66c40ca340fb6fdb44d808508f6d4a3f}{%
+           family={汪圻},
+           familyi={汪\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a57c38386782a401947674ed5ac0ee90}{%
+           family={王瑞兰},
+           familyi={王\bibinitperiod}}}%
+      }
+      \name{namea}{4}{}{%
+        {{hash=cc16ee57db186190b60c8d50f3eb7862}{%
+           family={丛沛桐},
+           familyi={丛\bibinitperiod}}}%
+        {{hash=2c8ca44f39d3d3071f797561cc5f739d}{%
+           family={王志刚},
+           familyi={王\bibinitperiod}}}%
+        {{hash=66c40ca340fb6fdb44d808508f6d4a3f}{%
+           family={汪圻},
+           familyi={汪\bibinitperiod}}}%
+        {{hash=a57c38386782a401947674ed5ac0ee90}{%
+           family={王瑞兰},
+           familyi={王\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{13a743d30ebe094c19f2a5d31ea5db73}
+      \strng{fullhash}{5a14eb5bf43a15a9a2215591eafd4b44}
+      \strng{bibnamehash}{5a14eb5bf43a15a9a2215591eafd4b44}
+      \strng{authorbibnamehash}{5a14eb5bf43a15a9a2215591eafd4b44}
+      \strng{authornamehash}{13a743d30ebe094c19f2a5d31ea5db73}
+      \strng{authorfullhash}{5a14eb5bf43a15a9a2215591eafd4b44}
+      \strng{nameabibnamehash}{5a14eb5bf43a15a9a2215591eafd4b44}
+      \strng{nameanamehash}{13a743d30ebe094c19f2a5d31ea5db73}
+      \strng{nameafullhash}{5a14eb5bf43a15a9a2215591eafd4b44}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{东北水利水电}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{note}{22-1097/TV}
+      \field{title}{GIS技术在洪水淹没分析中的应用}
+      \field{usera}{J}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{33\bibrangedash 34+72}
+      \range{pages}{-1}
+      \keyw{GIS技术;蓄滞洪区;淹没;洪水}
     \endentry
     \entry{郭明华-4}{article}{}
       \name{author}{1}{}{%
@@ -201,6 +318,70 @@
       \range{pages}{7}
       \keyw{智慧矿山;3D GIS;物联网;三维模型;构建}
     \endentry
+    \entry{刘佳于福亮-24}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=524f151793c2382f398895a5412188d6}{%
+           family={刘佳},
+           familyi={刘\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=0184ac652a08e57e9e5abb534efd7979}{%
+           family={于福亮},
+           familyi={于\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a99a4e79c97330aea9a06b5bf0e93316}{%
+           family={李传哲},
+           familyi={李\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e3a800d001dc9e98d724d56b3bb00f25}{%
+           family={尹吉国},
+           familyi={尹\bibinitperiod}}}%
+      }
+      \name{namea}{4}{}{%
+        {{hash=524f151793c2382f398895a5412188d6}{%
+           family={刘佳},
+           familyi={刘\bibinitperiod}}}%
+        {{hash=0184ac652a08e57e9e5abb534efd7979}{%
+           family={于福亮},
+           familyi={于\bibinitperiod}}}%
+        {{hash=a99a4e79c97330aea9a06b5bf0e93316}{%
+           family={李传哲},
+           familyi={李\bibinitperiod}}}%
+        {{hash=e3a800d001dc9e98d724d56b3bb00f25}{%
+           family={尹吉国},
+           familyi={尹\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{2ae0e69a033a0c75b6af914dcde6cf4b}
+      \strng{fullhash}{c195c3b36f5f9c80d2fa8ad5bfb4460a}
+      \strng{bibnamehash}{c195c3b36f5f9c80d2fa8ad5bfb4460a}
+      \strng{authorbibnamehash}{c195c3b36f5f9c80d2fa8ad5bfb4460a}
+      \strng{authornamehash}{2ae0e69a033a0c75b6af914dcde6cf4b}
+      \strng{authorfullhash}{c195c3b36f5f9c80d2fa8ad5bfb4460a}
+      \strng{nameabibnamehash}{c195c3b36f5f9c80d2fa8ad5bfb4460a}
+      \strng{nameanamehash}{2ae0e69a033a0c75b6af914dcde6cf4b}
+      \strng{nameafullhash}{c195c3b36f5f9c80d2fa8ad5bfb4460a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{将GIS在水文水资源的应用领域进行了划分,有针对性地对水资源评价和规划、区域水资源管理、防洪减灾、水环境监测和水资源保护以及水文模拟近来的应用进展进行了综述。探讨了GIS在水文水资源领域研究中存在的问题,并对未来的发展趋势进行了展望,以便为GIS在我国水文水资源领域的发展提供借鉴。}
+      \field{journaltitle}{水电能源科学}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{note}{42-1231/TK}
+      \field{number}{02}
+      \field{title}{GIS在水文水资源领域中的应用进展}
+      \field{usera}{J}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{20\bibrangedash 24}
+      \range{pages}{5}
+      \keyw{地理信息系统(GIS);水文;水资源;应用}
+    \endentry
     \entry{刘治华-5}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1321ff55616570e8b1ee2232f6748ee0}{%
@@ -250,6 +431,50 @@
       \verb 10.19415/j.cnki.1673-890x.2022.02.073
       \endverb
       \keyw{GIS技术;水文;水资源}
+    \endentry
+    \entry{美国科罗拉多河}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=21bf601c528ec7aaaf8a3dfc879ed39d}{%
+           family={徐元明},
+           familyi={徐\bibinitperiod}}}%
+      }
+      \name{namea}{1}{}{%
+        {{hash=21bf601c528ec7aaaf8a3dfc879ed39d}{%
+           family={徐元明},
+           familyi={徐\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {chinese}%
+      }
+      \strng{namehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
+      \strng{fullhash}{21bf601c528ec7aaaf8a3dfc879ed39d}
+      \strng{bibnamehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
+      \strng{authorbibnamehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
+      \strng{authornamehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
+      \strng{authorfullhash}{21bf601c528ec7aaaf8a3dfc879ed39d}
+      \strng{nameabibnamehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
+      \strng{nameanamehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
+      \strng{nameafullhash}{21bf601c528ec7aaaf8a3dfc879ed39d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{人民长江}
+      \field{langid}{english}
+      \field{languageid}{chinese}
+      \field{lansortorder}{1}
+      \field{note}{421202TV}
+      \field{title}{美国科罗拉多河决策支持系统概述}
+      \field{usera}{J}
+      \field{userd}{chinese}
+      \field{userf}{chinese}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{43\bibrangedash 46}
+      \range{pages}{4}
+      \keyw{科罗拉多州;科罗拉多河;水权管理;决策支持;系统概述}
     \endentry
     \entry{张国治韩景琦-3}{article}{}
       \name{author}{5}{}{%
@@ -323,9 +548,561 @@
       \endverb
       \keyw{GIS;PD;特高频柔性天线;小型化;间隙比}
     \endentry
+    \entry{brath2004analysis}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=519cf539f7be88ef3afa512c21ac09fa}{%
+           family={Brath},
+           familyi={B\bibinitperiod},
+           given={Armando},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eeea6c0fa796e8f3f383e642d0beb216}{%
+           family={Montanari},
+           familyi={M\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=768f4b190814075f0995665df4360504}{%
+           family={Toth},
+           familyi={T\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{3}{}{%
+        {{hash=519cf539f7be88ef3afa512c21ac09fa}{%
+           family={Brath},
+           familyi={B\bibinitperiod},
+           given={Armando},
+           giveni={A\bibinitperiod}}}%
+        {{hash=eeea6c0fa796e8f3f383e642d0beb216}{%
+           family={Montanari},
+           familyi={M\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=768f4b190814075f0995665df4360504}{%
+           family={Toth},
+           familyi={T\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5eca23ead9fa7cd3829675f06a840c6d}
+      \strng{fullhash}{c220297fd47d941ec0c746e4db8e14d4}
+      \strng{bibnamehash}{c220297fd47d941ec0c746e4db8e14d4}
+      \strng{authorbibnamehash}{c220297fd47d941ec0c746e4db8e14d4}
+      \strng{authornamehash}{5eca23ead9fa7cd3829675f06a840c6d}
+      \strng{authorfullhash}{c220297fd47d941ec0c746e4db8e14d4}
+      \strng{nameabibnamehash}{c220297fd47d941ec0c746e4db8e14d4}
+      \strng{nameanamehash}{5eca23ead9fa7cd3829675f06a840c6d}
+      \strng{nameafullhash}{c220297fd47d941ec0c746e4db8e14d4}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{number}{3-4}
+      \field{title}{Analysis of the effects of different scenarios of historical data availability on the calibration of a spatially-distributed hydrological model}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{291}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{232\bibrangedash 253}
+      \range{pages}{22}
+      \keyw{brath2004analysis}
+    \endentry
+    \entry{giupponi2006ag}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2b98b663a3d696f79bbf1d4105a1ad67}{%
+           family={Giupponi},
+           familyi={G\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a46a335e0e0eea14092df56314ee6d6}{%
+           family={Vladimirova},
+           familyi={V\bibinitperiod},
+           given={Irena},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{2}{}{%
+        {{hash=2b98b663a3d696f79bbf1d4105a1ad67}{%
+           family={Giupponi},
+           familyi={G\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0a46a335e0e0eea14092df56314ee6d6}{%
+           family={Vladimirova},
+           familyi={V\bibinitperiod},
+           given={Irena},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{cec74305a45a2c0c25d366851f488be0}
+      \strng{fullhash}{cec74305a45a2c0c25d366851f488be0}
+      \strng{bibnamehash}{cec74305a45a2c0c25d366851f488be0}
+      \strng{authorbibnamehash}{cec74305a45a2c0c25d366851f488be0}
+      \strng{authornamehash}{cec74305a45a2c0c25d366851f488be0}
+      \strng{authorfullhash}{cec74305a45a2c0c25d366851f488be0}
+      \strng{nameabibnamehash}{cec74305a45a2c0c25d366851f488be0}
+      \strng{nameanamehash}{cec74305a45a2c0c25d366851f488be0}
+      \strng{nameafullhash}{cec74305a45a2c0c25d366851f488be0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science of the Total Environment}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{number}{1-3}
+      \field{title}{Ag-PIE: A GIS-based screening model for assessing agricultural pressures and impacts on water quality on a European scale}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{359}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{57\bibrangedash 75}
+      \range{pages}{19}
+      \keyw{giupponi2006ag}
+    \endentry
+    \entry{gupta1977distributed}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ce6485123ecc3103cef2a56d947b4e08}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={SK},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce86b3bace79784ebec8e043ecd42862}{%
+           family={Solomon},
+           familyi={S\bibinitperiod},
+           given={SI},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{2}{}{%
+        {{hash=ce6485123ecc3103cef2a56d947b4e08}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={SK},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ce86b3bace79784ebec8e043ecd42862}{%
+           family={Solomon},
+           familyi={S\bibinitperiod},
+           given={SI},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{7c77246719254a5615631c77cfa008c6}
+      \strng{fullhash}{7c77246719254a5615631c77cfa008c6}
+      \strng{bibnamehash}{7c77246719254a5615631c77cfa008c6}
+      \strng{authorbibnamehash}{7c77246719254a5615631c77cfa008c6}
+      \strng{authornamehash}{7c77246719254a5615631c77cfa008c6}
+      \strng{authorfullhash}{7c77246719254a5615631c77cfa008c6}
+      \strng{nameabibnamehash}{7c77246719254a5615631c77cfa008c6}
+      \strng{nameanamehash}{7c77246719254a5615631c77cfa008c6}
+      \strng{nameafullhash}{7c77246719254a5615631c77cfa008c6}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{number}{3}
+      \field{title}{Distributed numerical model for estimating runoff and sediment discharge of ungaged rivers 1. The information system}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{13}
+      \field{year}{1977}
+      \field{dateera}{ce}
+      \field{pages}{613\bibrangedash 618}
+      \range{pages}{6}
+      \keyw{gupta1977distributed}
+    \endentry
+    \entry{he1993integration}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a0b7f1185c042b2041e108beac05a2e3}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Chansheng},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8228f79ca182dfc57d30709c17c4cb06}{%
+           family={Riggs},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=647c76153621a5da7bdd002d4bbb4ef1}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Yung-Tsung},
+           giveni={Y\bibinithyphendelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{3}{}{%
+        {{hash=a0b7f1185c042b2041e108beac05a2e3}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Chansheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8228f79ca182dfc57d30709c17c4cb06}{%
+           family={Riggs},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=647c76153621a5da7bdd002d4bbb4ef1}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Yung-Tsung},
+           giveni={Y\bibinithyphendelim T\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{9a7a98a65d98dcd49a165c186eb63911}
+      \strng{fullhash}{291f92e90369e8d0550283e561897b58}
+      \strng{bibnamehash}{291f92e90369e8d0550283e561897b58}
+      \strng{authorbibnamehash}{291f92e90369e8d0550283e561897b58}
+      \strng{authornamehash}{9a7a98a65d98dcd49a165c186eb63911}
+      \strng{authorfullhash}{291f92e90369e8d0550283e561897b58}
+      \strng{nameabibnamehash}{291f92e90369e8d0550283e561897b58}
+      \strng{nameanamehash}{9a7a98a65d98dcd49a165c186eb63911}
+      \strng{nameafullhash}{291f92e90369e8d0550283e561897b58}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JAWRA Journal of the American Water Resources Association}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{number}{6}
+      \field{title}{Integration of geographic information systems and a computer model to evaluate impacts of agricultural runoff on water quality 1}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{29}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{pages}{891\bibrangedash 900}
+      \range{pages}{10}
+      \keyw{he1993integration}
+    \endentry
+    \entry{horn1993water}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7c06d0c83cc480ef95949a604cb16c4e}{%
+           family={Horn},
+           familyi={H\bibinitperiod},
+           given={C\bibnamedelima Robert},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f89d1437997d0eccbbf61ce6477f0a0f}{%
+           family={Grayman},
+           familyi={G\bibinitperiod},
+           given={Walter\bibnamedelima M},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{2}{}{%
+        {{hash=7c06d0c83cc480ef95949a604cb16c4e}{%
+           family={Horn},
+           familyi={H\bibinitperiod},
+           given={C\bibnamedelima Robert},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f89d1437997d0eccbbf61ce6477f0a0f}{%
+           family={Grayman},
+           familyi={G\bibinitperiod},
+           given={Walter\bibnamedelima M},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Civil Engineers}%
+      }
+      \strng{namehash}{d6f29b3efa806c14cfc76c613228b009}
+      \strng{fullhash}{d6f29b3efa806c14cfc76c613228b009}
+      \strng{bibnamehash}{d6f29b3efa806c14cfc76c613228b009}
+      \strng{authorbibnamehash}{d6f29b3efa806c14cfc76c613228b009}
+      \strng{authornamehash}{d6f29b3efa806c14cfc76c613228b009}
+      \strng{authorfullhash}{d6f29b3efa806c14cfc76c613228b009}
+      \strng{nameabibnamehash}{d6f29b3efa806c14cfc76c613228b009}
+      \strng{nameanamehash}{d6f29b3efa806c14cfc76c613228b009}
+      \strng{nameafullhash}{d6f29b3efa806c14cfc76c613228b009}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Water Resources Planning and Management}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{number}{2}
+      \field{title}{Water-quality modeling with EPA reach file system}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{119}
+      \field{year}{1993}
+      \field{dateera}{ce}
+      \field{pages}{262\bibrangedash 274}
+      \range{pages}{13}
+      \keyw{horn1993water}
+    \endentry
+    \entry{ivanov2004catchment}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ac76887fcdfe60e7336abe64a99206e4}{%
+           family={Ivanov},
+           familyi={I\bibinitperiod},
+           given={Valeriy\bibnamedelima Y},
+           giveni={V\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfeb9d64bc9bce60036a3956896cde83}{%
+           family={Vivoni},
+           familyi={V\bibinitperiod},
+           given={Enrique\bibnamedelima R},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f16ea03f390cc6ca486544aef2046c4f}{%
+           family={Bras},
+           familyi={B\bibinitperiod},
+           given={Rafael\bibnamedelima L},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66e9c68474bdb4560737860d4ec2ad4a}{%
+           family={Entekhabi},
+           familyi={E\bibinitperiod},
+           given={Dara},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{4}{}{%
+        {{hash=ac76887fcdfe60e7336abe64a99206e4}{%
+           family={Ivanov},
+           familyi={I\bibinitperiod},
+           given={Valeriy\bibnamedelima Y},
+           giveni={V\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=cfeb9d64bc9bce60036a3956896cde83}{%
+           family={Vivoni},
+           familyi={V\bibinitperiod},
+           given={Enrique\bibnamedelima R},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=f16ea03f390cc6ca486544aef2046c4f}{%
+           family={Bras},
+           familyi={B\bibinitperiod},
+           given={Rafael\bibnamedelima L},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=66e9c68474bdb4560737860d4ec2ad4a}{%
+           family={Entekhabi},
+           familyi={E\bibinitperiod},
+           given={Dara},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{75b8e93f830fc897eaecf0dcfd3cf062}
+      \strng{fullhash}{66d249deadc973d262f4930c52881dbb}
+      \strng{bibnamehash}{66d249deadc973d262f4930c52881dbb}
+      \strng{authorbibnamehash}{66d249deadc973d262f4930c52881dbb}
+      \strng{authornamehash}{75b8e93f830fc897eaecf0dcfd3cf062}
+      \strng{authorfullhash}{66d249deadc973d262f4930c52881dbb}
+      \strng{nameabibnamehash}{66d249deadc973d262f4930c52881dbb}
+      \strng{nameanamehash}{75b8e93f830fc897eaecf0dcfd3cf062}
+      \strng{nameafullhash}{66d249deadc973d262f4930c52881dbb}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources Research}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{number}{11}
+      \field{title}{Catchment hydrologic response with a fully distributed triangulated irregular network model}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{40}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \keyw{ivanov2004catchment}
+    \endentry
+    \entry{jamieson1996waterware}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=118a957df5ff879d35abcaf729124a5e}{%
+           family={Jamieson},
+           familyi={J\bibinitperiod},
+           given={DG},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae10f79d46a1b2139f01fead92abd803}{%
+           family={Fedra},
+           familyi={F\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{2}{}{%
+        {{hash=118a957df5ff879d35abcaf729124a5e}{%
+           family={Jamieson},
+           familyi={J\bibinitperiod},
+           given={DG},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ae10f79d46a1b2139f01fead92abd803}{%
+           family={Fedra},
+           familyi={F\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b5319b35e25adc775521db04d0fae022}
+      \strng{fullhash}{b5319b35e25adc775521db04d0fae022}
+      \strng{bibnamehash}{b5319b35e25adc775521db04d0fae022}
+      \strng{authorbibnamehash}{b5319b35e25adc775521db04d0fae022}
+      \strng{authornamehash}{b5319b35e25adc775521db04d0fae022}
+      \strng{authorfullhash}{b5319b35e25adc775521db04d0fae022}
+      \strng{nameabibnamehash}{b5319b35e25adc775521db04d0fae022}
+      \strng{nameanamehash}{b5319b35e25adc775521db04d0fae022}
+      \strng{nameafullhash}{b5319b35e25adc775521db04d0fae022}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{number}{3-4}
+      \field{title}{The ‘WaterWare’decision-support system for river-basin planning. 1. Conceptual design}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{177}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{163\bibrangedash 175}
+      \range{pages}{13}
+      \keyw{jamieson1996waterware}
+    \endentry
+    \entry{tsanis20012d}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4bd4ea243938cef4a0d1af3820736bc8}{%
+           family={Tsanis},
+           familyi={T\bibinitperiod},
+           given={IK},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f1089444b1755797f5181d8414d40dd}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{2}{}{%
+        {{hash=4bd4ea243938cef4a0d1af3820736bc8}{%
+           family={Tsanis},
+           familyi={T\bibinitperiod},
+           given={IK},
+           giveni={I\bibinitperiod}}}%
+        {{hash=1f1089444b1755797f5181d8414d40dd}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7c8fc79e464f8002296c4b59257a863f}
+      \strng{fullhash}{7c8fc79e464f8002296c4b59257a863f}
+      \strng{bibnamehash}{7c8fc79e464f8002296c4b59257a863f}
+      \strng{authorbibnamehash}{7c8fc79e464f8002296c4b59257a863f}
+      \strng{authornamehash}{7c8fc79e464f8002296c4b59257a863f}
+      \strng{authorfullhash}{7c8fc79e464f8002296c4b59257a863f}
+      \strng{nameabibnamehash}{7c8fc79e464f8002296c4b59257a863f}
+      \strng{nameanamehash}{7c8fc79e464f8002296c4b59257a863f}
+      \strng{nameafullhash}{7c8fc79e464f8002296c4b59257a863f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Engineering Software}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{number}{5}
+      \field{title}{A 2D hydrodynamic/pollutant transport GIS model}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{32}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{353\bibrangedash 361}
+      \range{pages}{9}
+      \keyw{tsanis20012d}
+    \endentry
   \enddatalist
-  \missing{胡振震2016}
-  \missing{胡振震2019}
 \endrefsection
 \endinput
 

@@ -7,34 +7,31 @@
 
 
 \section{GeoServer}
-  GeoServer是开源项目，可以免费使用GeoServer，并具有自行修改、复制以及再分发的权利。同时，GeoServer还有 众多的优点:
+  GeoServer是一个开源项目，是一个用于共享地理空间数据的开源服务器，专为互操作性而设计，他使用开放标准发布来自任何主要空间数据源的数据，其作为社区驱动的项目由不同个人和组织开发、测试和支持，因此我们可以免费使用该项目，而且，该项目具有可以自行修改、自行复制以及再分发的能力。同时，GeoServer还有众多的优点:
 
 
 \begin{enumerate}
  
-   \item 用JAVA 语言编写、标准的J2EE架构、基于servlet 和 STRUTS 框架、支持高效的Spring 框架开发；
-   \item 兼容WMS和WFS特性、支持WFS—T规范；
-   \item 高级数据库支持PostGIS 、Shapefile、ArcSDE 、Oracle 、DB2、VPF 、MySQL、MapInfo 等;
-   \item 支持上百种投影；
-   \item 能够将网络地图输出为jpeg、gif、png、SVG、GML、KML 等格式；
-   \item 能够运行在任何基于J2EE/Servle容器之上；
-   \item 嵌入MapBuilder 支持AJAX 的地图客户端；
-   \item 实现了在线编辑空间数据、生成专题地图；
-   \item 地图发布是用xml 文件；
-   \item 支持GOOGLE MAPS；
-   \item 可发布KML 数据，与GoogleEarth 影像叠加，作出生动的应用；
+   \item 该服务器使用JAVA 语言开发、使用的架构是标准化的J2EE、并且该服务器的开发是基于servlet 和 STRUTS 框架、并且支持当前非常流行的Spring 框架开发；
+   \item GeoServer实施WMS和WFS标准，可以创建各种输出格式的地图、并且支持WFS—T规范；
+   \item GeoServer支持各种数据库，如MapInfo、Shapefile、PostGIS 、、MySQL、Oracle 、DB2等;
+   \item GeoServer支持上百种坐标系投影；
+   \item GeoServer能够将自己制作的地图或者网络地图以KML、png、SVG、GML、gif、jpeg 等格式输出；
+   \item 因为该软件的开发使用J2EE架构以及采用了servlet等框架，所以其可以在任何基于J2EE/Servlet的容器上运行；
+   \item GeoServer还嵌入MapBuilder，可以将发布的地图拆分为切片并且支持AJAX；
+   \item GeoServer可以在线编辑空间数据、并且生成专题地图；
+   \item GeoServer发布地图可以使用xml等文件；
+   \item GeoServer还支持GOOGLE MAPS等；
+   \item GeoServer还可以在服务器上发布KML 数据，并且可以通过与GoogleEarth进行影像叠加进而作出生动的应用；
 \end{enumerate}
 
 
-
 \section{Openlayers}
-要想在浏览器中显示交互式的地图很难，因为浏览器默认的只是显示静态的图片，如PNG、JPEG等格式，要交互式很难，因为每一个点击和缩放，地图都要做出正确的反应。
+由于浏览器在默认情况下，它对于地图(png/jepg等格式)的显示是静态的，因此如果想要在浏览器中展示交互式的地图会有较大的困难，因为如果实现交互的功能，那么对地图的每一个点击和缩放等操作，地图都要做出正确的反应，所以交互式比较难。
 
-OpenLayers 是一个专为Web GIS 客户端开发提供的JavaScript 类库包，主要是用于开发Web GIS客户端，用于实现标准格式发布的地图数据访问。从OpenLayers2.2版本以后，OpenLayers已经将所用到的Prototype.js组件整合到了自身当中，并不断在Prototype.js的基础上完善面向对象的开发，Rico用到地方不多，只是在OpenLayers.Popup.AnchoredBubble类中圆角化DIV。OpenLayers2.4版本以后提供了矢量画图功能，方便动态地展现“点、线和面”这样的地理数据。
+OpenLayers 是一个专为Web GIS 客户端开发提供的JavaScript 类库包，它主要是在开发Web GIS客户端时使用，主要是用于实现标准化格式发布的地图的数据访问。在OpenLayers发布的V2.2版本之后后，OpenLayers已经将他在开发时所用到的Prototype.js组件和自己整合在了一起，并且不断在Prototype.js的基础上完善面向对象的开发，不过对于OpenLayers，能用到Rico的地方不多，目前只是在OpenLayers.Popup.AnchoredBubble类中对于DIV进行圆角化处理。在OpenLayers的V2.4版本之后，其提供了矢量画图的功能，这样对于动态地展现“点、线和面”这样的地理数据十分方便。
 
-OpenLayers支持Google Maps、Yahoo Map、微软Virtual Earth等资源，可以通过WMS服务调用其它服务器上的空间数据，通过WFS服务调用空间服务。在操作方面，OpenLayers 除了可以在浏览器中实现地图浏览的基本效果，如放大、缩小、平移等操作，进行选取面、选取线、要素选择、图层叠加等操作。
-
-在操作方面，OpenLayers 除了可以在浏览器中帮助开发者实现地图浏览的基本效果，比如放大（Zoom In）、缩小（Zoom Out）、平移（Pan）等常用操作之外，还可以进行选取面、选取线、要素选择、图层叠加等不同的操作，甚至可以对已有的OpenLayers 操作和数据支持类型进行扩充，为其赋予更多的功能。例如，它可以为OpenLayers 添加网络处理服务WPS 的操作接口，从而利用已有的空间分析处理服务来对加载的地理空间数据进行计算。同时，在OpenLayers提供的类库当中，它还使用了类库Prototype.js 和Rico 中的部分组件，为地图浏览操作客户端增加Ajax 效果。
+对于微软Virtual Earth、高德地图、百度地图、Google Maps等资源OpenLayers也可以实现非常好的支持，OpenLayers可以通过WMS等服务调用其它服务器上的空间数据，通过WFS服务调用空间服务。在操作方面，OpenLayers可以在浏览器中实现地图浏览的基本效果，例如缩小、放大、平移等操作，还可以进行选取线、要素选择、图层叠加、选取面等操作，甚至可以对已有的OpenLayers 操作和数据支持类型进行扩充，为其赋予更多的功能。例如，它可以为OpenLayers 添加网络处理服务WPS 的操作接口，从而利用已有的空间分析处理服务来对加载的地理空间数据进行计算。同时，在OpenLayers提供的类库当中，由于整合了类库Prototype.js 和Rico ，因此可以为地图浏览操作客户端增加Ajax 效果。
 
 相对于另一个框架 OpenScales，OpenScales 是 OpenLayers 的 ActionScript 翻译，需要 FlashPlayer 支持才行，所以相比较来说，我们选择了原生的openlayers作为我们的实现技术。
 
