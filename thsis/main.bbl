@@ -149,68 +149,6 @@
       \range{pages}{6}
       \keyw{国土空间规划;三维GIS;空间分析;地理设计}
     \endentry
-    \entry{得克萨斯州}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=cc16ee57db186190b60c8d50f3eb7862}{%
-           family={丛沛桐},
-           familyi={丛\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=2c8ca44f39d3d3071f797561cc5f739d}{%
-           family={王志刚},
-           familyi={王\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=66c40ca340fb6fdb44d808508f6d4a3f}{%
-           family={汪圻},
-           familyi={汪\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=a57c38386782a401947674ed5ac0ee90}{%
-           family={王瑞兰},
-           familyi={王\bibinitperiod}}}%
-      }
-      \name{namea}{4}{}{%
-        {{hash=cc16ee57db186190b60c8d50f3eb7862}{%
-           family={丛沛桐},
-           familyi={丛\bibinitperiod}}}%
-        {{hash=2c8ca44f39d3d3071f797561cc5f739d}{%
-           family={王志刚},
-           familyi={王\bibinitperiod}}}%
-        {{hash=66c40ca340fb6fdb44d808508f6d4a3f}{%
-           family={汪圻},
-           familyi={汪\bibinitperiod}}}%
-        {{hash=a57c38386782a401947674ed5ac0ee90}{%
-           family={王瑞兰},
-           familyi={王\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {chinese}%
-      }
-      \strng{namehash}{13a743d30ebe094c19f2a5d31ea5db73}
-      \strng{fullhash}{5a14eb5bf43a15a9a2215591eafd4b44}
-      \strng{bibnamehash}{5a14eb5bf43a15a9a2215591eafd4b44}
-      \strng{authorbibnamehash}{5a14eb5bf43a15a9a2215591eafd4b44}
-      \strng{authornamehash}{13a743d30ebe094c19f2a5d31ea5db73}
-      \strng{authorfullhash}{5a14eb5bf43a15a9a2215591eafd4b44}
-      \strng{nameabibnamehash}{5a14eb5bf43a15a9a2215591eafd4b44}
-      \strng{nameanamehash}{13a743d30ebe094c19f2a5d31ea5db73}
-      \strng{nameafullhash}{5a14eb5bf43a15a9a2215591eafd4b44}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{东北水利水电}
-      \field{langid}{english}
-      \field{languageid}{chinese}
-      \field{lansortorder}{1}
-      \field{note}{22-1097/TV}
-      \field{title}{GIS技术在洪水淹没分析中的应用}
-      \field{usera}{J}
-      \field{userd}{chinese}
-      \field{userf}{chinese}
-      \field{year}{2006}
-      \field{dateera}{ce}
-      \field{pages}{33\bibrangedash 34+72}
-      \range{pages}{-1}
-      \keyw{GIS技术;蓄滞洪区;淹没;洪水}
-    \endentry
     \entry{郭明华-4}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=dc16c36737c952b31b48022304f9e716}{%
@@ -432,50 +370,6 @@
       \endverb
       \keyw{GIS技术;水文;水资源}
     \endentry
-    \entry{美国科罗拉多河}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=21bf601c528ec7aaaf8a3dfc879ed39d}{%
-           family={徐元明},
-           familyi={徐\bibinitperiod}}}%
-      }
-      \name{namea}{1}{}{%
-        {{hash=21bf601c528ec7aaaf8a3dfc879ed39d}{%
-           family={徐元明},
-           familyi={徐\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {chinese}%
-      }
-      \strng{namehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
-      \strng{fullhash}{21bf601c528ec7aaaf8a3dfc879ed39d}
-      \strng{bibnamehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
-      \strng{authorbibnamehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
-      \strng{authornamehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
-      \strng{authorfullhash}{21bf601c528ec7aaaf8a3dfc879ed39d}
-      \strng{nameabibnamehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
-      \strng{nameanamehash}{21bf601c528ec7aaaf8a3dfc879ed39d}
-      \strng{nameafullhash}{21bf601c528ec7aaaf8a3dfc879ed39d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{人民长江}
-      \field{langid}{english}
-      \field{languageid}{chinese}
-      \field{lansortorder}{1}
-      \field{note}{421202TV}
-      \field{title}{美国科罗拉多河决策支持系统概述}
-      \field{usera}{J}
-      \field{userd}{chinese}
-      \field{userf}{chinese}
-      \field{year}{1996}
-      \field{dateera}{ce}
-      \field{pages}{43\bibrangedash 46}
-      \range{pages}{4}
-      \keyw{科罗拉多州;科罗拉多河;水权管理;决策支持;系统概述}
-    \endentry
     \entry{张国治韩景琦-3}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=95d4d1c15c08b4c349d60af17aeb9c9c}{%
@@ -548,43 +442,76 @@
       \endverb
       \keyw{GIS;PD;特高频柔性天线;小型化;间隙比}
     \endentry
-    \entry{brath2004analysis}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=519cf539f7be88ef3afa512c21ac09fa}{%
-           family={Brath},
+    \entry{status}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=13a4d6567e74747f85f289173eee79ed}{%
+           family={Anish},
+           familyi={A\bibinitperiod},
+           given={AU},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7faf43000b3cdf2a376e326999b9a7bf}{%
+           family={Baiju},
            familyi={B\bibinitperiod},
-           given={Armando},
-           giveni={A\bibinitperiod},
+           given={KR},
+           giveni={K\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=eeea6c0fa796e8f3f383e642d0beb216}{%
-           family={Montanari},
-           familyi={M\bibinitperiod},
-           given={Alberto},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=768f4b190814075f0995665df4360504}{%
-           family={Toth},
+        {{un=0,uniquepart=base,hash=5076edf4c626f870b8bd0781368c4d86}{%
+           family={Thomas},
            familyi={T\bibinitperiod},
-           given={Elena},
-           giveni={E\bibinitperiod},
+           given={Praveen\bibnamedelima Kurian},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88feaa96123ebf539c1588761dff53d7}{%
+           family={Anns},
+           familyi={A\bibinitperiod},
+           given={Milan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ccdd9858f4ae1e73e90872b0bdb8305d}{%
+           family={Rajkumar},
+           familyi={R\bibinitperiod},
+           given={PB},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68ec06bcc2596da713fc64a1250b5266}{%
+           family={Babu},
+           familyi={B\bibinitperiod},
+           given={Sreeraj},
+           giveni={S\bibinitperiod},
            givenun=0}}%
       }
-      \name{namea}{3}{}{%
-        {{hash=519cf539f7be88ef3afa512c21ac09fa}{%
-           family={Brath},
+      \name{namea}{6}{}{%
+        {{hash=13a4d6567e74747f85f289173eee79ed}{%
+           family={Anish},
+           familyi={A\bibinitperiod},
+           given={AU},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7faf43000b3cdf2a376e326999b9a7bf}{%
+           family={Baiju},
            familyi={B\bibinitperiod},
-           given={Armando},
-           giveni={A\bibinitperiod}}}%
-        {{hash=eeea6c0fa796e8f3f383e642d0beb216}{%
-           family={Montanari},
-           familyi={M\bibinitperiod},
-           given={Alberto},
-           giveni={A\bibinitperiod}}}%
-        {{hash=768f4b190814075f0995665df4360504}{%
-           family={Toth},
+           given={KR},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5076edf4c626f870b8bd0781368c4d86}{%
+           family={Thomas},
            familyi={T\bibinitperiod},
-           given={Elena},
-           giveni={E\bibinitperiod}}}%
+           given={Praveen\bibnamedelima Kurian},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=88feaa96123ebf539c1588761dff53d7}{%
+           family={Anns},
+           familyi={A\bibinitperiod},
+           given={Milan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ccdd9858f4ae1e73e90872b0bdb8305d}{%
+           family={Rajkumar},
+           familyi={R\bibinitperiod},
+           given={PB},
+           giveni={P\bibinitperiod}}}%
+        {{hash=68ec06bcc2596da713fc64a1250b5266}{%
+           family={Babu},
+           familyi={B\bibinitperiod},
+           given={Sreeraj},
+           giveni={S\bibinitperiod}}}%
       }
       \list{language}{1}{%
         {english}%
@@ -592,63 +519,73 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{5eca23ead9fa7cd3829675f06a840c6d}
-      \strng{fullhash}{c220297fd47d941ec0c746e4db8e14d4}
-      \strng{bibnamehash}{c220297fd47d941ec0c746e4db8e14d4}
-      \strng{authorbibnamehash}{c220297fd47d941ec0c746e4db8e14d4}
-      \strng{authornamehash}{5eca23ead9fa7cd3829675f06a840c6d}
-      \strng{authorfullhash}{c220297fd47d941ec0c746e4db8e14d4}
-      \strng{nameabibnamehash}{c220297fd47d941ec0c746e4db8e14d4}
-      \strng{nameanamehash}{5eca23ead9fa7cd3829675f06a840c6d}
-      \strng{nameafullhash}{c220297fd47d941ec0c746e4db8e14d4}
+      \strng{namehash}{b8664cf5f9e667082cf7f349cd56c436}
+      \strng{fullhash}{056c14d22b669589b53d8228b9e7c7d0}
+      \strng{bibnamehash}{056c14d22b669589b53d8228b9e7c7d0}
+      \strng{authorbibnamehash}{056c14d22b669589b53d8228b9e7c7d0}
+      \strng{authornamehash}{b8664cf5f9e667082cf7f349cd56c436}
+      \strng{authorfullhash}{056c14d22b669589b53d8228b9e7c7d0}
+      \strng{nameabibnamehash}{056c14d22b669589b53d8228b9e7c7d0}
+      \strng{nameanamehash}{b8664cf5f9e667082cf7f349cd56c436}
+      \strng{nameafullhash}{056c14d22b669589b53d8228b9e7c7d0}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Hydrology}
+      \field{journaltitle}{Regional Studies in Marine Science}
       \field{langid}{english}
       \field{languageid}{english}
       \field{lansortorder}{4}
-      \field{number}{3-4}
-      \field{title}{Analysis of the effects of different scenarios of historical data availability on the calibration of a spatially-distributed hydrological model}
+      \field{title}{Status of GIS-enabled morphometric analysis of river basins of Kerala, Southern India: A review and assessment}
       \field{usera}{J}
       \field{userd}{english}
       \field{userf}{english}
-      \field{volume}{291}
-      \field{year}{2004}
+      \field{volume}{44}
+      \field{year}{2021}
       \field{dateera}{ce}
-      \field{pages}{232\bibrangedash 253}
-      \range{pages}{22}
-      \keyw{brath2004analysis}
+      \field{pages}{101792}
+      \range{pages}{1}
+      \keyw{status}
     \endentry
-    \entry{giupponi2006ag}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=2b98b663a3d696f79bbf1d4105a1ad67}{%
-           family={Giupponi},
-           familyi={G\bibinitperiod},
-           given={Carlo},
-           giveni={C\bibinitperiod},
+    \entry{jha}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bc16be7fc63a5da2232b788c50b13b14}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={Madan\bibnamedelima Kumar},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=0a46a335e0e0eea14092df56314ee6d6}{%
-           family={Vladimirova},
-           familyi={V\bibinitperiod},
-           given={Irena},
-           giveni={I\bibinitperiod},
+        {{un=0,uniquepart=base,hash=e968abcf9ba328d4bd0859566a913648}{%
+           family={Shekhar},
+           familyi={S\bibinitperiod},
+           given={Ankit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d33b0495d5b9b4fd27a64596a82af2e7}{%
+           family={Jenifer},
+           familyi={J\bibinitperiod},
+           given={M\bibnamedelima Annie},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
       }
-      \name{namea}{2}{}{%
-        {{hash=2b98b663a3d696f79bbf1d4105a1ad67}{%
-           family={Giupponi},
-           familyi={G\bibinitperiod},
-           given={Carlo},
-           giveni={C\bibinitperiod}}}%
-        {{hash=0a46a335e0e0eea14092df56314ee6d6}{%
-           family={Vladimirova},
-           familyi={V\bibinitperiod},
-           given={Irena},
-           giveni={I\bibinitperiod}}}%
+      \name{namea}{3}{}{%
+        {{hash=bc16be7fc63a5da2232b788c50b13b14}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={Madan\bibnamedelima Kumar},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e968abcf9ba328d4bd0859566a913648}{%
+           family={Shekhar},
+           familyi={S\bibinitperiod},
+           given={Ankit},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d33b0495d5b9b4fd27a64596a82af2e7}{%
+           family={Jenifer},
+           familyi={J\bibinitperiod},
+           given={M\bibnamedelima Annie},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
       \list{language}{1}{%
         {english}%
@@ -656,15 +593,275 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{cec74305a45a2c0c25d366851f488be0}
-      \strng{fullhash}{cec74305a45a2c0c25d366851f488be0}
-      \strng{bibnamehash}{cec74305a45a2c0c25d366851f488be0}
-      \strng{authorbibnamehash}{cec74305a45a2c0c25d366851f488be0}
-      \strng{authornamehash}{cec74305a45a2c0c25d366851f488be0}
-      \strng{authorfullhash}{cec74305a45a2c0c25d366851f488be0}
-      \strng{nameabibnamehash}{cec74305a45a2c0c25d366851f488be0}
-      \strng{nameanamehash}{cec74305a45a2c0c25d366851f488be0}
-      \strng{nameafullhash}{cec74305a45a2c0c25d366851f488be0}
+      \strng{namehash}{2898e7bc15fd8cd346281805f8e2c888}
+      \strng{fullhash}{ce8b2c2846bc07a46b1ac0288edd9721}
+      \strng{bibnamehash}{ce8b2c2846bc07a46b1ac0288edd9721}
+      \strng{authorbibnamehash}{ce8b2c2846bc07a46b1ac0288edd9721}
+      \strng{authornamehash}{2898e7bc15fd8cd346281805f8e2c888}
+      \strng{authorfullhash}{ce8b2c2846bc07a46b1ac0288edd9721}
+      \strng{nameabibnamehash}{ce8b2c2846bc07a46b1ac0288edd9721}
+      \strng{nameanamehash}{2898e7bc15fd8cd346281805f8e2c888}
+      \strng{nameafullhash}{ce8b2c2846bc07a46b1ac0288edd9721}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Research}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Assessing groundwater quality for drinking water supply using hybrid fuzzy-GIS-based water quality index}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{179}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{115867}
+      \range{pages}{1}
+      \keyw{jha}
+    \endentry
+    \entry{kawo2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6e09ee1af5030b97a561d2fd0ca43eb9}{%
+           family={Kawo},
+           familyi={K\bibinitperiod},
+           given={Nafyad\bibnamedelima Serre},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e38f9a075cce45eb333be9821e167953}{%
+           family={Karuppannan},
+           familyi={K\bibinitperiod},
+           given={Shankar},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{2}{}{%
+        {{hash=6e09ee1af5030b97a561d2fd0ca43eb9}{%
+           family={Kawo},
+           familyi={K\bibinitperiod},
+           given={Nafyad\bibnamedelima Serre},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e38f9a075cce45eb333be9821e167953}{%
+           family={Karuppannan},
+           familyi={K\bibinitperiod},
+           given={Shankar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{d435af49042ebce3c7b4445ed0fe0ac0}
+      \strng{fullhash}{d435af49042ebce3c7b4445ed0fe0ac0}
+      \strng{bibnamehash}{d435af49042ebce3c7b4445ed0fe0ac0}
+      \strng{authorbibnamehash}{d435af49042ebce3c7b4445ed0fe0ac0}
+      \strng{authornamehash}{d435af49042ebce3c7b4445ed0fe0ac0}
+      \strng{authorfullhash}{d435af49042ebce3c7b4445ed0fe0ac0}
+      \strng{nameabibnamehash}{d435af49042ebce3c7b4445ed0fe0ac0}
+      \strng{nameanamehash}{d435af49042ebce3c7b4445ed0fe0ac0}
+      \strng{nameafullhash}{d435af49042ebce3c7b4445ed0fe0ac0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of African Earth Sciences}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Groundwater quality assessment using water quality index and GIS technique in Modjo River Basin, central Ethiopia}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{147}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{300\bibrangedash 311}
+      \range{pages}{12}
+      \keyw{kawo2018}
+    \endentry
+    \entry{kva}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140ccf913ae07d800bd063478051d09b}{%
+           family={Kvamme},
+           familyi={K\bibinitperiod},
+           given={KL},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{1}{}{%
+        {{hash=140ccf913ae07d800bd063478051d09b}{%
+           family={Kvamme},
+           familyi={K\bibinitperiod},
+           given={KL},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{140ccf913ae07d800bd063478051d09b}
+      \strng{fullhash}{140ccf913ae07d800bd063478051d09b}
+      \strng{bibnamehash}{140ccf913ae07d800bd063478051d09b}
+      \strng{authorbibnamehash}{140ccf913ae07d800bd063478051d09b}
+      \strng{authornamehash}{140ccf913ae07d800bd063478051d09b}
+      \strng{authorfullhash}{140ccf913ae07d800bd063478051d09b}
+      \strng{nameabibnamehash}{140ccf913ae07d800bd063478051d09b}
+      \strng{nameanamehash}{140ccf913ae07d800bd063478051d09b}
+      \strng{nameafullhash}{140ccf913ae07d800bd063478051d09b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archaeology and geographic information systems: A European perspective}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{title}{A view from across the water: the North American experience in ar aeological GIS}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \keyw{kva}
+    \endentry
+    \entry{langat2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=668b6310f62647c480fb64bd12880809}{%
+           family={Langat},
+           familyi={L\bibinitperiod},
+           given={Philip\bibnamedelima Kibet},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bce7a972ececf27f844cd95c0f7cec1}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Lalit},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=801f4da3e57f6bd8e5eef29ef05bdfd2}{%
+           family={Koech},
+           familyi={K\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{3}{}{%
+        {{hash=668b6310f62647c480fb64bd12880809}{%
+           family={Langat},
+           familyi={L\bibinitperiod},
+           given={Philip\bibnamedelima Kibet},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3bce7a972ececf27f844cd95c0f7cec1}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Lalit},
+           giveni={L\bibinitperiod}}}%
+        {{hash=801f4da3e57f6bd8e5eef29ef05bdfd2}{%
+           family={Koech},
+           familyi={K\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9b7e5cb913934b654de36643b9c102a0}
+      \strng{fullhash}{e9af027cbbb9dbce4f09fb2c0530b129}
+      \strng{bibnamehash}{e9af027cbbb9dbce4f09fb2c0530b129}
+      \strng{authorbibnamehash}{e9af027cbbb9dbce4f09fb2c0530b129}
+      \strng{authornamehash}{9b7e5cb913934b654de36643b9c102a0}
+      \strng{authorfullhash}{e9af027cbbb9dbce4f09fb2c0530b129}
+      \strng{nameabibnamehash}{e9af027cbbb9dbce4f09fb2c0530b129}
+      \strng{nameanamehash}{9b7e5cb913934b654de36643b9c102a0}
+      \strng{nameafullhash}{e9af027cbbb9dbce4f09fb2c0530b129}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geomorphology}
+      \field{langid}{english}
+      \field{languageid}{english}
+      \field{lansortorder}{4}
+      \field{title}{Monitoring river channel dynamics using remote sensing and GIS techniques}
+      \field{usera}{J}
+      \field{userd}{english}
+      \field{userf}{english}
+      \field{volume}{325}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{92\bibrangedash 102}
+      \range{pages}{11}
+      \keyw{langat2019}
+    \endentry
+    \entry{eva}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c5c6799877b2eb9ad8a066e2fbf156bd}{%
+           family={Şener},
+           familyi={Ş\bibinitperiod},
+           given={Şehnaz},
+           giveni={Ş\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=165e2278c202aee897a4bc4659a81e9e}{%
+           family={Şener},
+           familyi={Ş\bibinitperiod},
+           given={Erhan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c653976f641448d7068c9fc5ef02f654}{%
+           family={Davraz},
+           familyi={D\bibinitperiod},
+           given={Ayşen},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{namea}{3}{}{%
+        {{hash=c5c6799877b2eb9ad8a066e2fbf156bd}{%
+           family={Şener},
+           familyi={Ş\bibinitperiod},
+           given={Şehnaz},
+           giveni={Ş\bibinitperiod}}}%
+        {{hash=165e2278c202aee897a4bc4659a81e9e}{%
+           family={Şener},
+           familyi={Ş\bibinitperiod},
+           given={Erhan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c653976f641448d7068c9fc5ef02f654}{%
+           family={Davraz},
+           familyi={D\bibinitperiod},
+           given={Ayşen},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{175ccb5448ab902dea741f392dbfc97e}
+      \strng{fullhash}{888d05fcd24984cc277cc82a6e229fe6}
+      \strng{bibnamehash}{888d05fcd24984cc277cc82a6e229fe6}
+      \strng{authorbibnamehash}{888d05fcd24984cc277cc82a6e229fe6}
+      \strng{authornamehash}{175ccb5448ab902dea741f392dbfc97e}
+      \strng{authorfullhash}{888d05fcd24984cc277cc82a6e229fe6}
+      \strng{nameabibnamehash}{888d05fcd24984cc277cc82a6e229fe6}
+      \strng{nameanamehash}{175ccb5448ab902dea741f392dbfc97e}
+      \strng{nameafullhash}{888d05fcd24984cc277cc82a6e229fe6}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
@@ -675,432 +872,102 @@
       \field{langid}{english}
       \field{languageid}{english}
       \field{lansortorder}{4}
-      \field{number}{1-3}
-      \field{title}{Ag-PIE: A GIS-based screening model for assessing agricultural pressures and impacts on water quality on a European scale}
+      \field{title}{Evaluation of water quality using water quality index (WQI) method and GIS in Aksu River (SW-Turkey)}
       \field{usera}{J}
       \field{userd}{english}
       \field{userf}{english}
-      \field{volume}{359}
-      \field{year}{2006}
+      \field{volume}{584}
+      \field{year}{2017}
       \field{dateera}{ce}
-      \field{pages}{57\bibrangedash 75}
-      \range{pages}{19}
-      \keyw{giupponi2006ag}
+      \field{pages}{131\bibrangedash 144}
+      \range{pages}{14}
+      \keyw{eva}
     \endentry
-    \entry{gupta1977distributed}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=ce6485123ecc3103cef2a56d947b4e08}{%
-           family={Gupta},
-           familyi={G\bibinitperiod},
-           given={SK},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ce86b3bace79784ebec8e043ecd42862}{%
-           family={Solomon},
-           familyi={S\bibinitperiod},
-           given={SI},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{namea}{2}{}{%
-        {{hash=ce6485123ecc3103cef2a56d947b4e08}{%
-           family={Gupta},
-           familyi={G\bibinitperiod},
-           given={SK},
-           giveni={S\bibinitperiod}}}%
-        {{hash=ce86b3bace79784ebec8e043ecd42862}{%
-           family={Solomon},
-           familyi={S\bibinitperiod},
-           given={SI},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {english}%
-      }
-      \list{publisher}{1}{%
-        {Wiley Online Library}%
-      }
-      \strng{namehash}{7c77246719254a5615631c77cfa008c6}
-      \strng{fullhash}{7c77246719254a5615631c77cfa008c6}
-      \strng{bibnamehash}{7c77246719254a5615631c77cfa008c6}
-      \strng{authorbibnamehash}{7c77246719254a5615631c77cfa008c6}
-      \strng{authornamehash}{7c77246719254a5615631c77cfa008c6}
-      \strng{authorfullhash}{7c77246719254a5615631c77cfa008c6}
-      \strng{nameabibnamehash}{7c77246719254a5615631c77cfa008c6}
-      \strng{nameanamehash}{7c77246719254a5615631c77cfa008c6}
-      \strng{nameafullhash}{7c77246719254a5615631c77cfa008c6}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Water Resources Research}
-      \field{langid}{english}
-      \field{languageid}{english}
-      \field{lansortorder}{4}
-      \field{number}{3}
-      \field{title}{Distributed numerical model for estimating runoff and sediment discharge of ungaged rivers 1. The information system}
-      \field{usera}{J}
-      \field{userd}{english}
-      \field{userf}{english}
-      \field{volume}{13}
-      \field{year}{1977}
-      \field{dateera}{ce}
-      \field{pages}{613\bibrangedash 618}
-      \range{pages}{6}
-      \keyw{gupta1977distributed}
-    \endentry
-    \entry{he1993integration}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=a0b7f1185c042b2041e108beac05a2e3}{%
-           family={He},
-           familyi={H\bibinitperiod},
-           given={Chansheng},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8228f79ca182dfc57d30709c17c4cb06}{%
-           family={Riggs},
-           familyi={R\bibinitperiod},
-           given={James\bibnamedelima F},
-           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=647c76153621a5da7bdd002d4bbb4ef1}{%
-           family={Kang},
-           familyi={K\bibinitperiod},
-           given={Yung-Tsung},
-           giveni={Y\bibinithyphendelim T\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{namea}{3}{}{%
-        {{hash=a0b7f1185c042b2041e108beac05a2e3}{%
-           family={He},
-           familyi={H\bibinitperiod},
-           given={Chansheng},
-           giveni={C\bibinitperiod}}}%
-        {{hash=8228f79ca182dfc57d30709c17c4cb06}{%
-           family={Riggs},
-           familyi={R\bibinitperiod},
-           given={James\bibnamedelima F},
-           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-        {{hash=647c76153621a5da7bdd002d4bbb4ef1}{%
-           family={Kang},
-           familyi={K\bibinitperiod},
-           given={Yung-Tsung},
-           giveni={Y\bibinithyphendelim T\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {english}%
-      }
-      \list{publisher}{1}{%
-        {Wiley Online Library}%
-      }
-      \strng{namehash}{9a7a98a65d98dcd49a165c186eb63911}
-      \strng{fullhash}{291f92e90369e8d0550283e561897b58}
-      \strng{bibnamehash}{291f92e90369e8d0550283e561897b58}
-      \strng{authorbibnamehash}{291f92e90369e8d0550283e561897b58}
-      \strng{authornamehash}{9a7a98a65d98dcd49a165c186eb63911}
-      \strng{authorfullhash}{291f92e90369e8d0550283e561897b58}
-      \strng{nameabibnamehash}{291f92e90369e8d0550283e561897b58}
-      \strng{nameanamehash}{9a7a98a65d98dcd49a165c186eb63911}
-      \strng{nameafullhash}{291f92e90369e8d0550283e561897b58}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{JAWRA Journal of the American Water Resources Association}
-      \field{langid}{english}
-      \field{languageid}{english}
-      \field{lansortorder}{4}
-      \field{number}{6}
-      \field{title}{Integration of geographic information systems and a computer model to evaluate impacts of agricultural runoff on water quality 1}
-      \field{usera}{J}
-      \field{userd}{english}
-      \field{userf}{english}
-      \field{volume}{29}
-      \field{year}{1993}
-      \field{dateera}{ce}
-      \field{pages}{891\bibrangedash 900}
-      \range{pages}{10}
-      \keyw{he1993integration}
-    \endentry
-    \entry{horn1993water}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=7c06d0c83cc480ef95949a604cb16c4e}{%
-           family={Horn},
-           familyi={H\bibinitperiod},
-           given={C\bibnamedelima Robert},
-           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f89d1437997d0eccbbf61ce6477f0a0f}{%
-           family={Grayman},
-           familyi={G\bibinitperiod},
-           given={Walter\bibnamedelima M},
-           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{namea}{2}{}{%
-        {{hash=7c06d0c83cc480ef95949a604cb16c4e}{%
-           family={Horn},
-           familyi={H\bibinitperiod},
-           given={C\bibnamedelima Robert},
-           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=f89d1437997d0eccbbf61ce6477f0a0f}{%
-           family={Grayman},
-           familyi={G\bibinitperiod},
-           given={Walter\bibnamedelima M},
-           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {english}%
-      }
-      \list{publisher}{1}{%
-        {American Society of Civil Engineers}%
-      }
-      \strng{namehash}{d6f29b3efa806c14cfc76c613228b009}
-      \strng{fullhash}{d6f29b3efa806c14cfc76c613228b009}
-      \strng{bibnamehash}{d6f29b3efa806c14cfc76c613228b009}
-      \strng{authorbibnamehash}{d6f29b3efa806c14cfc76c613228b009}
-      \strng{authornamehash}{d6f29b3efa806c14cfc76c613228b009}
-      \strng{authorfullhash}{d6f29b3efa806c14cfc76c613228b009}
-      \strng{nameabibnamehash}{d6f29b3efa806c14cfc76c613228b009}
-      \strng{nameanamehash}{d6f29b3efa806c14cfc76c613228b009}
-      \strng{nameafullhash}{d6f29b3efa806c14cfc76c613228b009}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Water Resources Planning and Management}
-      \field{langid}{english}
-      \field{languageid}{english}
-      \field{lansortorder}{4}
-      \field{number}{2}
-      \field{title}{Water-quality modeling with EPA reach file system}
-      \field{usera}{J}
-      \field{userd}{english}
-      \field{userf}{english}
-      \field{volume}{119}
-      \field{year}{1993}
-      \field{dateera}{ce}
-      \field{pages}{262\bibrangedash 274}
-      \range{pages}{13}
-      \keyw{horn1993water}
-    \endentry
-    \entry{ivanov2004catchment}{article}{}
+    \entry{overview}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=ac76887fcdfe60e7336abe64a99206e4}{%
-           family={Ivanov},
-           familyi={I\bibinitperiod},
-           given={Valeriy\bibnamedelima Y},
-           giveni={V\bibinitperiod\bibinitdelim Y\bibinitperiod},
+        {{un=0,uniquepart=base,hash=cf99d1a8f6595582da255df9eff6d051}{%
+           family={Suh},
+           familyi={S\bibinitperiod},
+           given={Jangwon},
+           giveni={J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=cfeb9d64bc9bce60036a3956896cde83}{%
-           family={Vivoni},
-           familyi={V\bibinitperiod},
-           given={Enrique\bibnamedelima R},
-           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+        {{un=0,uniquepart=base,hash=cc974fffc7040b71ab1681298212756b}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sung-Min},
+           giveni={S\bibinithyphendelim M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f16ea03f390cc6ca486544aef2046c4f}{%
-           family={Bras},
-           familyi={B\bibinitperiod},
-           given={Rafael\bibnamedelima L},
-           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+        {{un=0,uniquepart=base,hash=59729356ac1c61c608a2db172cecfb46}{%
+           family={Yi},
+           familyi={Y\bibinitperiod},
+           given={Huiuk},
+           giveni={H\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=66e9c68474bdb4560737860d4ec2ad4a}{%
-           family={Entekhabi},
-           familyi={E\bibinitperiod},
-           given={Dara},
-           giveni={D\bibinitperiod},
+        {{un=0,uniquepart=base,hash=f467b4327b78e4d21bc02c343aa98b51}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Yosoon},
+           giveni={Y\bibinitperiod},
            givenun=0}}%
       }
       \name{namea}{4}{}{%
-        {{hash=ac76887fcdfe60e7336abe64a99206e4}{%
-           family={Ivanov},
-           familyi={I\bibinitperiod},
-           given={Valeriy\bibnamedelima Y},
-           giveni={V\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
-        {{hash=cfeb9d64bc9bce60036a3956896cde83}{%
-           family={Vivoni},
-           familyi={V\bibinitperiod},
-           given={Enrique\bibnamedelima R},
-           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=f16ea03f390cc6ca486544aef2046c4f}{%
-           family={Bras},
-           familyi={B\bibinitperiod},
-           given={Rafael\bibnamedelima L},
-           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=66e9c68474bdb4560737860d4ec2ad4a}{%
-           family={Entekhabi},
-           familyi={E\bibinitperiod},
-           given={Dara},
-           giveni={D\bibinitperiod}}}%
+        {{hash=cf99d1a8f6595582da255df9eff6d051}{%
+           family={Suh},
+           familyi={S\bibinitperiod},
+           given={Jangwon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cc974fffc7040b71ab1681298212756b}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sung-Min},
+           giveni={S\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=59729356ac1c61c608a2db172cecfb46}{%
+           family={Yi},
+           familyi={Y\bibinitperiod},
+           given={Huiuk},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f467b4327b78e4d21bc02c343aa98b51}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Yosoon},
+           giveni={Y\bibinitperiod}}}%
       }
       \list{language}{1}{%
         {english}%
       }
       \list{publisher}{1}{%
-        {Wiley Online Library}%
+        {Multidisciplinary Digital Publishing Institute}%
       }
-      \strng{namehash}{75b8e93f830fc897eaecf0dcfd3cf062}
-      \strng{fullhash}{66d249deadc973d262f4930c52881dbb}
-      \strng{bibnamehash}{66d249deadc973d262f4930c52881dbb}
-      \strng{authorbibnamehash}{66d249deadc973d262f4930c52881dbb}
-      \strng{authornamehash}{75b8e93f830fc897eaecf0dcfd3cf062}
-      \strng{authorfullhash}{66d249deadc973d262f4930c52881dbb}
-      \strng{nameabibnamehash}{66d249deadc973d262f4930c52881dbb}
-      \strng{nameanamehash}{75b8e93f830fc897eaecf0dcfd3cf062}
-      \strng{nameafullhash}{66d249deadc973d262f4930c52881dbb}
+      \strng{namehash}{69c3a6fbd2105506f7b61a9a6e02f5f3}
+      \strng{fullhash}{7fb41ed6096b36f42292e187f3cb346d}
+      \strng{bibnamehash}{7fb41ed6096b36f42292e187f3cb346d}
+      \strng{authorbibnamehash}{7fb41ed6096b36f42292e187f3cb346d}
+      \strng{authornamehash}{69c3a6fbd2105506f7b61a9a6e02f5f3}
+      \strng{authorfullhash}{7fb41ed6096b36f42292e187f3cb346d}
+      \strng{nameabibnamehash}{7fb41ed6096b36f42292e187f3cb346d}
+      \strng{nameanamehash}{69c3a6fbd2105506f7b61a9a6e02f5f3}
+      \strng{nameafullhash}{7fb41ed6096b36f42292e187f3cb346d}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Water Resources Research}
+      \field{journaltitle}{International journal of environmental research and public health}
       \field{langid}{english}
       \field{languageid}{english}
       \field{lansortorder}{4}
-      \field{number}{11}
-      \field{title}{Catchment hydrologic response with a fully distributed triangulated irregular network model}
+      \field{number}{12}
+      \field{title}{An overview of GIS-based modeling and assessment of mining-induced hazards: Soil, water, and forest}
       \field{usera}{J}
       \field{userd}{english}
       \field{userf}{english}
-      \field{volume}{40}
-      \field{year}{2004}
+      \field{volume}{14}
+      \field{year}{2017}
       \field{dateera}{ce}
-      \keyw{ivanov2004catchment}
-    \endentry
-    \entry{jamieson1996waterware}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=118a957df5ff879d35abcaf729124a5e}{%
-           family={Jamieson},
-           familyi={J\bibinitperiod},
-           given={DG},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ae10f79d46a1b2139f01fead92abd803}{%
-           family={Fedra},
-           familyi={F\bibinitperiod},
-           given={K},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{namea}{2}{}{%
-        {{hash=118a957df5ff879d35abcaf729124a5e}{%
-           family={Jamieson},
-           familyi={J\bibinitperiod},
-           given={DG},
-           giveni={D\bibinitperiod}}}%
-        {{hash=ae10f79d46a1b2139f01fead92abd803}{%
-           family={Fedra},
-           familyi={F\bibinitperiod},
-           given={K},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {english}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{b5319b35e25adc775521db04d0fae022}
-      \strng{fullhash}{b5319b35e25adc775521db04d0fae022}
-      \strng{bibnamehash}{b5319b35e25adc775521db04d0fae022}
-      \strng{authorbibnamehash}{b5319b35e25adc775521db04d0fae022}
-      \strng{authornamehash}{b5319b35e25adc775521db04d0fae022}
-      \strng{authorfullhash}{b5319b35e25adc775521db04d0fae022}
-      \strng{nameabibnamehash}{b5319b35e25adc775521db04d0fae022}
-      \strng{nameanamehash}{b5319b35e25adc775521db04d0fae022}
-      \strng{nameafullhash}{b5319b35e25adc775521db04d0fae022}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Hydrology}
-      \field{langid}{english}
-      \field{languageid}{english}
-      \field{lansortorder}{4}
-      \field{number}{3-4}
-      \field{title}{The ‘WaterWare’decision-support system for river-basin planning. 1. Conceptual design}
-      \field{usera}{J}
-      \field{userd}{english}
-      \field{userf}{english}
-      \field{volume}{177}
-      \field{year}{1996}
-      \field{dateera}{ce}
-      \field{pages}{163\bibrangedash 175}
-      \range{pages}{13}
-      \keyw{jamieson1996waterware}
-    \endentry
-    \entry{tsanis20012d}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=4bd4ea243938cef4a0d1af3820736bc8}{%
-           family={Tsanis},
-           familyi={T\bibinitperiod},
-           given={IK},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1f1089444b1755797f5181d8414d40dd}{%
-           family={Boyle},
-           familyi={B\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{namea}{2}{}{%
-        {{hash=4bd4ea243938cef4a0d1af3820736bc8}{%
-           family={Tsanis},
-           familyi={T\bibinitperiod},
-           given={IK},
-           giveni={I\bibinitperiod}}}%
-        {{hash=1f1089444b1755797f5181d8414d40dd}{%
-           family={Boyle},
-           familyi={B\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {english}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{7c8fc79e464f8002296c4b59257a863f}
-      \strng{fullhash}{7c8fc79e464f8002296c4b59257a863f}
-      \strng{bibnamehash}{7c8fc79e464f8002296c4b59257a863f}
-      \strng{authorbibnamehash}{7c8fc79e464f8002296c4b59257a863f}
-      \strng{authornamehash}{7c8fc79e464f8002296c4b59257a863f}
-      \strng{authorfullhash}{7c8fc79e464f8002296c4b59257a863f}
-      \strng{nameabibnamehash}{7c8fc79e464f8002296c4b59257a863f}
-      \strng{nameanamehash}{7c8fc79e464f8002296c4b59257a863f}
-      \strng{nameafullhash}{7c8fc79e464f8002296c4b59257a863f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Advances in Engineering Software}
-      \field{langid}{english}
-      \field{languageid}{english}
-      \field{lansortorder}{4}
-      \field{number}{5}
-      \field{title}{A 2D hydrodynamic/pollutant transport GIS model}
-      \field{usera}{J}
-      \field{userd}{english}
-      \field{userf}{english}
-      \field{volume}{32}
-      \field{year}{2001}
-      \field{dateera}{ce}
-      \field{pages}{353\bibrangedash 361}
-      \range{pages}{9}
-      \keyw{tsanis20012d}
+      \field{pages}{1463}
+      \range{pages}{1}
+      \keyw{overview}
     \endentry
   \enddatalist
 \endrefsection

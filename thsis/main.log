@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.7)  27 MAY 2022 17:49
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.7)  29 MAY 2022 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2467,13 +2467,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
 [3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3068) has occurred while \output is active []
 
  [4]
 File: figs/tree_1.png Graphic file (type bmp)
 <figs/tree_1.png>
-)
-[5] [6]
+
+[5]) [6]
 \openout2 = `contents/chap02.aux'.
 
  (./contents/chap02.tex
@@ -2605,40 +2605,46 @@ n(0)/m/n/12.045 ，| \TU/TimesNewRoman(0)/m/n/12.045 ol.style.Icon\TU/SimSun(0)/
 
 File: figs/river_1.png Graphic file (type bmp)
 <figs/river_1.png>
-File: figs/xushuici .png Graphic file (type bmp)
-<figs/xushuici .png>
+File: figs/bianhua.png Graphic file (type bmp)
+<figs/bianhua.png>
+File: figs/xushuici.png Graphic file (type bmp)
+<figs/xushuici.png>
 [21]
 File: figs/shuiku.png Graphic file (type bmp)
 <figs/shuiku.png>
 File: figs/dixiashui.png Graphic file (type bmp)
 <figs/dixiashui.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [22]
 File: figs/turang.png Graphic file (type bmp)
 <figs/turang.png>
 File: figs/温度图.png Graphic file (type bmp)
 <figs/温度图.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
 File: figs/降雨.png Graphic file (type bmp)
 <figs/降雨.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
-[24]
+ [24]
 File: figs/ceshiheliu.png Graphic file (type bmp)
 <figs/ceshiheliu.png>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
+[25]
 File: figs/测试蓄水池.png Graphic file (type bmp)
 <figs/测试蓄水池.png>
+ [26]
 File: figs/ceshidixiashui.png Graphic file (type bmp)
 <figs/ceshidixiashui.png>
-
-[26]
+ [27]
 File: figs/fuzaiceshi.png Graphic file (type bmp)
 <figs/fuzaiceshi.png>
- [27]) [28]
+) [28]
 \openout2 = `contents/chap06.aux'.
 
  (./contents/chap06.tex
@@ -2662,12 +2668,8 @@ LaTeX Font Info:    Font shape `TU/XITSMath-Regular.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular.otf(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 83.
 
-Overfull \hbox (4.05144pt too wide) in paragraph at lines 83--83
-[][]\TU/TimesNewRoman(0)/m/n/9.03374 Tsanis, I., Boyle, S. 2001. A 2D hydrodyna
-mic/pollutant transport GIS model. \TU/TimesNewRoman(0)/m/it/9.03374 Advances i
-n Engineering Software\TU/TimesNewRoman(0)/m/n/9.03374 , 32(5): 353$[]$361. 
- []
-
+Missing character: There is no  (U+E03B) in font Times New Roman/OT:script=lat
+n;language=dflt;mapping=tex-text;!
 [31
 
 
@@ -2697,16 +2699,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3FB0CB1411C2362A8D00BEEB93535CEE;8405.
+(rerunfilecheck)             Checksum: 8FD537172742C4823919D24977E9921F;8405.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53464 strings out of 476179
- 1150453 string characters out of 5812191
- 2268225 words of memory out of 5000000
- 73306 multiletter control sequences out of 15000+600000
+ 53434 strings out of 476179
+ 1148330 string characters out of 5812191
+ 2267925 words of memory out of 5000000
+ 73275 multiletter control sequences out of 15000+600000
  478073 words of font info for 160 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  103i,12n,115p,1481b,4922s stack positions out of 10000i,1000n,20000p,200000b,200000s
