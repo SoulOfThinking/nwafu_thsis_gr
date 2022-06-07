@@ -41,15 +41,15 @@
 	\caption{地图截取}
 	\label{fig:shezhiditu}
 \end{figure}
-\subsection{geoserver发布}
-使用geoserver进行地图发布，我们主要选择了shp数据文件作为geoserver的数据文件进行发布，首先创建工作区，这样使之后创建的所有的地图图层数据全部发布至本工作区内，方便之后使用openlayers调用各种地图，创建工作区如\ref{fig:gongzuoqu}所示。
+\subsection{部署GeoServer}
+使用geoserver进行地图发布，我们主要选择了shp数据文件作为GeoServer的数据文件进行发布，首先创建工作区，这样使之后创建的所有的地图图层数据全部发布至本工作区内，方便之后使用OpenLayers调用各种地图，创建工作区如\ref{fig:gongzuoqu}所示。
 \begin{figure}[!htb]%关于这些编译器的配置和使用，请参阅相关说明资料。
 	\centering
 	\includegraphics[width=0.60\textwidth]{figs/创建工作区.png}
 	\caption{创建工作区}
 	\label{fig:gongzuoqu}
 \end{figure}
-创建完工作区之后，就可以进行数据文件的上传，首先通过QGIS导出文件之后，将文件长传到geoserver上，选择数据源如\ref{fig:xinjianshuju}所示。
+创建完工作区之后，就可以进行数据文件的上传，首先通过QGIS导出文件之后，将文件长传到GeoServer上，选择数据源如\ref{fig:xinjianshuju}所示。
 \begin{figure}[!htb]%关于这些编译器的配置和使用，请参阅相关说明资料。
 	\centering
 	\includegraphics[width=0.60\textwidth]{figs/新建数据.png}
@@ -72,10 +72,10 @@
 	\caption{选取坐标系}
 	\label{fig:zuobiaoxi}
 \end{figure}
-\subsection{openlayers渲染}
-1.第一步，首先通过openlayers调取发布在geoserver上的地图图层，主要设置参数有：service,version,request ,typeName,output\_options。然后使用ajax获取json数据，因为geoserver的输出格式就是json文件。
+\subsection{OpenLayers渲染}
+1.第一步，首先通过OpenLayers调取发布在GeoServer上的地图图层，主要设置参数有：service,version,request ,typeName,output\_options。然后使用ajax获取json数据，因为GeoServer的输出格式就是json文件。
 
-2.第二步，通过openlayers的getZoomForResolution，getLonLatFromViewPortPx，getViewPortPxFromLonLat，moveTo，zoomToMaxExtent，zoomToScale等方法给地图添加方法缩小比例尺转化，设置分辨率等基本功能。
+2.第二步，通过OpenLayers的getZoomForResolution，getLonLatFromViewPortPx，getViewPortPxFromLonLat，moveTo，zoomToMaxExtent，zoomToScale等方法给地图添加方法缩小比例尺转化，设置分辨率等基本功能。
 
 3.第三步，对地图进行点线面渲染，主要通过ol.style.Circle，ol.style.Icon，ol.style.Stroke，ol.style.Fill，ol.style.Stroke等操作，对地图进行需求所需的渲染。
 
@@ -122,13 +122,26 @@
 	\label{fig:dixiashui}
 \end{figure}
 \subsection{土壤类型和土壤含量专题图}
-土壤类型和土壤含量专题图主要通过区域粒度来展示土壤类型与含量信息，土壤类型通过不同颜色来表示，一种颜色代表着一种土壤类型，当鼠标或者在大屏上用手触摸到某一个区域时，便会展示土壤具体含量信息，土壤具体含量信息也会根据数据的变化而产生的相应的变化，相关人员通过查看相关土壤信息可以合理的安排作物的种植等，基本展示如\ref{fig:turang}所示.
+土壤类型和土壤含量专题图主要通过区域粒度来展示土壤类型与含量信息，土壤类型通过不同颜色来表示，一种颜色代表着一种土壤类型，当鼠标或者在大屏上用手触摸到某一个区域时，便会展示土壤具体含量信息，土壤具体含量信息也会根据数据的变化而产生的相应的变化，相关人员通过查看相关土壤信息可以合理的安排作物的种植等，基本展示如\ref{fig:turang}所示，\ref{fig:turang}所示为从中国地图展示各省份的土壤信息，当区域粒度更小时，使用地图钻取的效果可以使得土壤信息更加小区域化，这里以山东省为例，中国地图如\ref{fig:zuanqu}所示，当点击山东区域时，便会钻入山东省地图，展示各市的土壤信息，如\ref{fig:shandong}所示。
 \begin{figure}[!htb]%关于这些编译器的配置和使用，请参阅相关说明资料。
 	\centering
 	\includegraphics[width=0.60\textwidth]{figs/turang.png}
 	\caption{土壤专题图}
 	\label{fig:turang}
 \end{figure}
+\begin{figure}[!htb]%关于这些编译器的配置和使用，请参阅相关说明资料。
+	\centering
+	\includegraphics[width=0.60\textwidth]{figs/shili.png}
+	\caption{地图钻取示例}
+	\label{fig:zuanqu}
+\end{figure}
+\begin{figure}[!htb]%关于这些编译器的配置和使用，请参阅相关说明资料。
+	\centering
+	\includegraphics[width=0.60\textwidth]{figs/shandong.png}
+	\caption{钻入后的山东地图}
+	\label{fig:shandong}
+\end{figure}
+
 \section{气候图}
 \subsection{温度专题图}
 温度专题图主要展示地区的温度信息，因为温度信息是区域性质的，因此需要设计范围专题图来直观的展示温度高低的信息，并通过颜色的渐变来展示温度高低，因为温度随着时间会动态变化，因此该专题图也会根据数据的变化产生相应实时的变化，基本展示如\ref{fig:wendu}所示。
